@@ -1,0 +1,275 @@
+[Marc Elias]
+Donald Trump and his Republican allies are escalating their attacks on the federal government. They're targeting their political opponents, trying to silence their critics in the media. And now they've introduced the largest voter suppression bill of a generation.
+
+Today's guest, New York Representative Dan Goldman, well, he's on the front lines in Congress fighting back. He recently introduced an amendment to block homeland security from seizing voting machines. And he's co-authored legislation to stop presidents from turning the Department of Justice into their political weapons.
+
+Congressman Goldman joins us to explain why we need to take Donald Trump seriously and literally, how the SAVE Act and redistricting battles fit into the broader power grab, and what Congress still can do to prevent elections from being rigged by those in the administration. But before we get into it, subscribe to this channel to stay informed about how you can defend democracy. Congressman Dan Goldman, welcome back to Defending Democracy.
+
+[Rep. Dan Goldman]
+Thanks so much for having me, Mark.
+
+[Marc Elias]
+All right. Well, we really needed you back because we are witnessing an unprecedented attack on democracy in so many different ways. And I'm hoping you can help us sort it out.
+
+But I want to start with something that you are doing legislatively around the problem of sort of political prosecution. So why don't you, why don't you fill us in on that to kick this off?
+
+[Rep. Dan Goldman]
+Introducing a bill with Senator Blumenthal on the Senate side to address the blatant politicized and partisan prosecutions that the Department of Justice has been trying, and I say trying intentionally, to execute. It is unbelievably rare for a grand jury to reject an indictment. But with these political prosecutions, these partisan prosecutions where Donald Trump is ordering Pam Bondi to do them, and they are putting lackeys in office to do them, they're not even getting past the grand jury.
+
+What we want to do is make sure that there are serious guardrails around doing this, because regardless of whether or not they're successful, and I think even if they were indicted, they would be unsuccessful at trial, it completely degrades the entire Department of Justice. And it means not only these political and partisan prosecutions are suspect, but it means everything that they do becomes suspect. And so you can't just separate and say, oh, this one is partisan, but that one is not.
+
+And it just starts to infect the entire department, undermines its credibility, undermines the rule of law, undermines our system of democracy. And so this bill would require a lot of disclosure to Congress by the line agents, the line prosecutors who are working on the case, who will have to make certifications under penalty of perjury that there was no partisan discussions or considerations when making a decision to move forward or not. And there are other similar guardrails against more senior people in the U.S. Attorney's Office and the FBI. But the idea here is that I know from being a career prosecutor myself for 10 years, I would not be able to move forward with something like this. You might be able to rationalize moving forward if you're there worried about your job. But if you have to certify something that you know to be false and then you have to send any communications or a report to the Office of Inspector General or other ethics officials within the department, you will undoubtedly think twice or three times.
+
+And that's the point of this bill.
+
+[Marc Elias]
+Let's back up for a second. And you mentioned that we've seen instances now of grand jurors rejecting indictments and how rare that is. How do we know when that happens?
+
+There's some process that has been described in individual cases after an indictment is returned. I guess it goes to a judge. Is that right?
+
+And if it's been rejected, does it go to the judge? Tell us, how does this work?
+
+[Rep. Dan Goldman]
+You either get a true bill, which is when the grand jury votes to indict. And the grand jury is made up of 23 citizens. And you need a quorum of 16.
+
+And then you need to have more than half that vote to indict. When you return an indictment, that literally is when you go to the judge and you return the indictment. That's what it means.
+
+And so you will return the indictment usually almost always with a true bill, which means you voted to say that in support of probable cause to believe that the crime has been committed. It's not beyond a reasonable doubt. It's probable cause.
+
+And in federal court, hearsay is allowed. You basically can put an FBI agent in there and just summarize all the evidence. There's no cross-examination.
+
+There's no defense witnesses. There's no defense case. So when you add that up with the probable cause standard, that's why you hear the expression that you can indict a ham sandwich.
+
+Because if you're going to the grand jury with a case that you are expecting to convince a unanimous jury of 12 beyond a reasonable doubt, well, you better be able to get probable cause with half of a grand jury without a defense. And so it's so rare that you would get what's called a no true bill where the grand jury rejects the indictment. But that would also have to be reported to the magistrate judge at the end of the day.
+
+And I think it's a combination of maybe people being there and observing it or perhaps having sources inside where they're getting that information that something like that has happened. But it is exceedingly rare except for this administration.
+
+[Marc Elias]
+At what point in this process would your bill, your legislation kick in? Is it pre-indictment? Is it after that gets returned?
+
+Is it later in the process during discovery? Tell me where in this process that you just described would your new legislation add its protections?
+
+[Rep. Dan Goldman]
+It would be most likely, as I envision it at least, it would be when you are presenting the indictment to the judge or beforehand that you would have to certify that there were no political considerations. It also heightens the requirement of presenting exculpatory evidence to the grand jury.
+
+[Marc Elias]
+Right. Exculpatory evidence for everyone. That's evidence that would mitigate against finding of guilt, right?
+
+[Rep. Dan Goldman]
+That's right. If, for example, a witness that you're relying on has said something different in the past, you're going to have to explain that to the grand jury. And then it allows for essentially a right of action for a defendant to go to a judge and make an argument that there's selective and vindictive prosecution based on improper considerations.
+
+And then there will be a whole process where the judge can investigate that. But that's really almost impossible right now. It does exist in some cases on a motion to dismiss or if you get, it's very hard to get information about whether there was anything improperly done within the grand jury because it's confidential and it's required to be confidential.
+
+But because of this, the bill that we're kind of, we're making it much more feasible to get the grand jury minutes and to get the grand jury presentation and to require greater transparency and disclosure.
+
+[Marc Elias]
+I want to turn to another thing that you have been working on, which I think is really important also, and that has to do with the real risk and the shameful fact that we even have to be talking about, an administration that could seize voting equipment and ballot boxes. We saw, obviously, the search warrant executed in Fulton County, Georgia, related to the 2020 election. I know this alarms me.
+
+I know it alarms a lot of people watching and listening to this. I know it alarms you. So what's your prescription there?
+
+[Rep. Dan Goldman]
+I was particularly struck by that search warrant because it related to ballots in 2020. We are now in 2026. The vast majority of federal crimes have a statute of limitation of five years.
+
+And so we would be beyond that statute of limitations right now.
+
+[Marc Elias]
+Right. Because, again, just to explain to everyone, the last conceivable date, and this is probably too far even, the last conceivable date would presumably be January 6th, 2026, which would have been five years after January 6th, 2021, which was the date that Congress certified the electors in the Electoral College. So at that point, whatever ballots did or didn't do was no longer relevant.
+
+[Rep. Dan Goldman]
+And that's exactly right. So there was that, but there was also the very unusual circumstance where the Director of National Intelligence was present. Now, first of all, it's just weird.
+
+I mean, it's almost unheard. I think it is unheard of. I can't imagine that you would even have, let's say, the Attorney General present at a search or the Director of the FBI when the FBI is executing it.
+
+That just does not happen. It's even weirder when you have the Director of National Intelligence, because that's not a law enforcement body. It's amalgamation of all the intelligence agencies within our government that is fighting ostensibly foreign interference in elections and otherwise, but is not a law enforcement agency.
+
+And so why would they be involved in a search warrant to collect information from the past? Because the only thing that the DNI and the intelligence community should be focused on is the future and what's going to happen in the next election. And so my antenna went up with that.
+
+But it is clear that they're not actually trying to show that anything was wrong with 2020 election. First of all, that's been exhaustively litigated, as you well know, perhaps better than anyone. And the so that's not even really on the table.
+
+And when you combine that with another action that Pam Bondi made, by writing a letter to Tim Walz, the governor of Minnesota, where included in one of the conditions to withdraw the immigration officers who were terrorizing the city of Minneapolis was to hand over the voter rolls. What does one have anything to do with the other? They don't, they shouldn't.
+
+Pam Bondi does not actually supervise or oversee ICE or CBP or any of the immigration officers who were there. So it's even unusual that she would be talking about that as a condition as the Attorney General again, so you have these two situations where they're seizing voter information. And the only real reason to do that is essentially to purge the voter rolls.
+
+Because the federal government does not have a role in registering voters in ensuring that voter rolls are adhere to state law. And so there's only real conceivable reason that they would want this stuff is because they intend to mess with the next election, the voter rolls for the next election. I think what we've seen since then, this was several weeks ago, is even more open and notorious declarations of nationalizing this election, of interfering in the election.
+
+Secretary Kristi Noem, you know, and I think it was a Freudian slip says, you know, we want to make sure that the right people are voting for the right officials. And that's not, has nothing to do with this phantom notion of undocumented immigrants or non-citizens voting, which as you know, and I know, is just not a thing. And you don't have to take our word for it.
+
+The Heritage Foundation, the author of Project 2025, has done extensive studies and has found that voter fraud just doesn't exist. And it's not what a lot of people will say, oh, well, it's just not enforced and no one is trying to do that. That's not true.
+
+There have been really exhaustive studies of voter data that have found, you know, 10 or 20 instances of voter fraud out of millions and millions of votes. It does not affect any election. It's not a thing.
+
+So they are trying to create this problem that they now want to solve with the SAVE Act, which is effectively a voter suppression bill. But it's all part of a much larger picture, which is trying to undermine the free and fair election in this upcoming November that started with their efforts to do partisan gerrymandering and have evolved as those efforts have failed.
+
+[Marc Elias]
+I want to come back to the free and fair elections. By the way, Utah did a recent review of all of their voter registration records and found that I believe it identified one non-citizen who was registered and the person didn't vote. So that's like how rare it is.
+
+And that was, you know, as I recall, that was done actually by the state itself, which had motivations to try to find whatever there was to find, right? And I want to come back to that in a second, but I got to ask you a question that is like percolating around or is bouncing around social media. And a lot of people are focused on this.
+
+And so I'm going to pick your brain as a lawyer and a former federal prosecutor. As we all read the affidavit supporting the search warrant in Fulton County, it didn't purport to establish any state of mind. In other words, it didn't, it sort of had happenstance, you know, scattered allegations of this and that.
+
+But there wasn't any allegation that, you know, from the affiant that anyone intentionally did anything wrong. And a number of people have pointed this out as sort of a flaw in the affidavit that it should have included some evidence or suggestion that some election official did something willfully or intentionally. Is that true?
+
+And is that, you know, in your experience, is that unusual? I'll be right back with more of my conversation with Congressman Goldman in a moment. But, you know, Donald Trump and his Republican allies, they're trying to strip voting rights from millions of Americans.
+
+And the legacy media isn't coming to save us. The Democracy Ducket team needs your help to keep exposing these threats and emergencies that are coming from this administration every day. The best thing you can do to support their mission is to subscribe to their free newsletter.
+
+That's right. It's free. Click on the link in the description below to sign up now.
+
+[Rep. Dan Goldman]
+So the requirement to get a search warrant is that you show there's probable cause that a crime was committed and that there's probable cause to find evidence of that crime in whatever you are searching. So you could, I'm, you know, I'm brainstorming. I'm just spitballing here, but I don't know that you would have to show direct intent to show probable cause that a crime was being committed, because in theory, you could probably show probable cause through completely circumstantial evidence.
+
+Got it. Where you're not talking about, you would, in order to indict someone, you would, of course, have to show their individual intent to do it. But a search warrant based on probable cause does not necessarily need that.
+
+[Marc Elias]
+I'm glad you cleared that up. That's very helpful. So now let's talk about the upcoming elections, because, you know, you and I are both painting very, very similar pictures of what we're worried about, which is really an effort that, you know, Donald Trump has actually said out loud.
+
+Like he's, they're not hiding, you know, in Washington, D.C., we sometimes assume that if there isn't a cover-up, there must not be a crime. And Donald Trump has actually just proven he's willing to just say out loud the things that he's doing, and that doesn't make them any less bad. And so just to review the bidding and get your reaction, we've got Donald Trump telling the New York Times that he wished he had seized the 2020 ballots, that now he has since seized ballots in, or his Department of Justice seized ballots from Fulton County.
+
+There is the statement that you referred to that he believes that Republicans need to take over the elections, and he says 15 places. He doesn't say which 15 places, although he later, in a different statement, talks about Detroit, Philadelphia, and Atlanta. Okay, so there's the Republican takeover of voting.
+
+He has repeatedly said that, which is incorrect, that the states are just the agents of the federal government in taking over, in counting of ballots. That's not factually correct, but again, it tells you something about what he is envisioning. And then, as you point out, we have the Department of Justice suing 24 states to gain access to their sensitive voting data, the voter rolls, as you referenced, which, so everyone's clear, is the most sensitive data on voting that states have.
+
+And there's no reason why the federal government would need it or want it for any good reason. And as you point out, they tried to leverage that, gaining access to that in Minnesota in order to, you know, end, as you say, what's been going on there. So when you take all of those things together, Congressman, what picture does that paint for you?
+
+What do you worry most about in that?
+
+[Rep. Dan Goldman]
+I mean, it really is remarkable how Republicans especially just seem to give Donald Trump a pass if he says the illegal and unconstitutional things he's doing out loud, even to the point where Chairman James Comer of the Oversight Committee literally said that because, of course, he is notorious for the hundreds and hundreds of hours and millions and millions of dollars spent on the Hunter Biden investigation, where even the allegations, if true, they were not, was that Joe Biden maybe received a few million dollars from foreign governments. And he's asked, well, you made such a big deal about that, and Donald Trump is taking a $400 million plane, and he's taking all these foreign investments in his own crypto companies and all this stuff. Why are you not investigating that?
+
+And his response was, oh, because he's doing it out in the open. That's literally what he said. And it is scary.
+
+But as we know from studying Donald Trump for 10 years now, he always eventually reveals what he's thinking and what his plan is. And I think for a while he can keep quiet, but eventually he doesn't. So by him saying we're going to nationalize the elections, and then him saying, I believe on the same day even, that we shouldn't even have elections.
+
+[Marc Elias]
+That's right. I skipped that. I meant, damn, I skipped that one.
+
+Yes, he did say he wished we didn't have elections.
+
+[Rep. Dan Goldman]
+No, we should not have elections.
+
+[Marc Elias]
+I'm sorry, we shouldn't have elections. Correct.
+
+[Rep. Dan Goldman]
+I mean, I'm sure he wishes that we didn't, but he even said we should not. And I think, as I understand it, separate from the 24 states that they're suing, there are a dozen or so states that are just handing over their own.
+
+[Marc Elias]
+That's correct. He has sought the record. The Department of Justice has sought the record from all 50 states plus the District of Columbia.
+
+There are 24 states that have said no. We know that there are someplace about a dozen states that have said yes, and the rest, it's very hard to tell.
+
+[Rep. Dan Goldman]
+And the reason I think what can happen, and what I imagine happening, is if they get all of this data they will go through and they will doge the voter rolls. They will just indiscriminately and arbitrarily and without any basis start purging people from the voter rolls. Or, I suppose, requiring re-registration for some might be a way that they can get around it, which will be done solely to reduce the number of Democratic voters.
+
+Because, as you point out, Detroit, Philadelphia, Atlanta, we know those are overwhelmingly Democratic cities. And if those are the only ones that need to be federalized, then we know that's what he's trying to do. So, this is, I think, one piece of the larger puzzle.
+
+The other thing that I'm very concerned about is just seizing ballots and or voting machines, which he said, as you pointed out, he should have done in 2020. There was a draft executive order in 2020 for ordering the Department of Homeland Security to do that.
+
+[Marc Elias]
+I think it was to order the Pentagon to do it, actually.
+
+[Rep. Dan Goldman]
+Right. I think it was both. Yeah.
+
+And this is part of the reason why I have been insisting throughout this whole DHS funding discussion that rather than focus on passing a law to enforce what is already the law, such as the Fourth Amendment requiring a judicial warrant to do a search of a that we have to make sure that the Department of Homeland Security is prohibited from unduly and unlawfully seizing voting machines, voter rolls, etc. But I do think that's another element of it.
+
+And then the last element is just pure, well, two more elements. One is just pure intimidation to put ICE officials or other militarized law enforcement officials at voting booths or at polling precincts and therefore trying to scare away naturalized citizens, for example, because who knows, they'll come up and they'll do what they've been doing in Minneapolis, demand citizenship papers, beat them, use excessive force. And then the last thing is the SAVE Act that they're really pushing right now, which is a truly a voter suppression bill masquerading as some phantom solution to this non-problem of voter fraud.
+
+[Marc Elias]
+Well, look, on the SAVE America Act, I wanted to get your sense. I know obviously it passed out of the House over the objections of Democrats. Every Republican voted for it.
+
+I think one Democrat voted for it and everyone else opposed it. And now it goes to the Senate. But this bill does a few things.
+
+Number one is it requires proofing citizenship, which I'd encourage everybody out there to ask yourself how you would prove you're a citizen, right? I mean, like if you don't have a U.S. passport, then how do you prove you're a citizen? Well, a driver's license doesn't prove citizenship.
+
+Even a real ID doesn't prove citizenship, except I think in five states where it does, but the rest of the states it doesn't. So that leaves you with your birth certificate if you have an original or a certified copy of your birth certificate. Congressman, I don't mean to pick on my birth state and your home state.
+
+I actually called the Bureau of Vital Records in New York, which is who keeps birth certificates. You know, like basically it was like they were telling me it would be months to get an original certified copy of a birth certificate. Like this is not like something that states that you can necessarily get immediately.
+
+And, you know, this will be a real obstacle to a lot of people being able to vote. Do your Republican colleagues, is that like a feature or a flaw from their standpoint?
+
+[Rep. Dan Goldman]
+Oh, I mean, that is 100 percent a feature because, you know, to the extent that traditionally the voter, the poorer people vote Democrat. And I think broadly speaking, if you look at sort of the passport registration or that, you know, you can't I mean, it's obviously not exact, but there there are going to be more Democrats that do not have a passport than there are Republicans. And there are then you're if you don't have a passport, then you are relegated to your birth certificate.
+
+I have no idea where my birth certificate is right now.
+
+[Marc Elias]
+I know. Right.
+
+[Rep. Dan Goldman]
+And I imagine there are many others. And that is I mean, that's really important because they are gaslighting the American people and say that, I mean, Mike Lee, who's one of the sponsors, lead sponsor in the Senate. I put up a tweet saying that this is a voter suppression bill because you either need your birth certificate or your passport.
+
+And he says, no, there are other ways of proving your citizenship. And I responded, what are they? And no response.
+
+And there are. And you can look in the bill and you can look, you know, you can find it. There really are other than those five states where you have to have a real ID.
+
+That is the point. What they have done very craftily is they have amended the last bill, which was the SAVE Act, which just had the citizenship requirement for registration. It's not a citizenship requirement to show up and show your citizenship when you're voting.
+
+But in order to register, you need to do that. In that prior one, there was no voter ID requirement. What they have done now in the SAVE America Act is they've added that in addition to citizenship for registration, you also have to have a valid ID when you show up at the ballot box.
+
+Now, unquestionably, that is a more reasonable requirement than the citizenship requirement. But what it really amounts to is a poll tax, because, again, there is no problem that needs to be solved here. The undocumented or noncitizens just do not vote in any material numbers.
+
+And so you're now adding another layer where people have to get IDs, which many people think is normal and routine. But for many, they don't have them. And again, it disproportionately impacts communities of color and poorer communities, and that's going to have a disproportionate impact on Democrats.
+
+So they're just gaslighting by trying to make the argument, oh, we're preventing all of these illegal immigrants from voting by just simply requiring an ID. Wrong. That is not what has happened.
+
+[Marc Elias]
+Well, I'd add two things to that, just so that everybody's clear. Number one, the law actually prohibits states from allowing IDs issued by educational institutions. How curious is that, right?
+
+The law says you need photo ID with certain requirements that has to be state issued, needs an expiration date and some other stuff. But then actually in the bill, the Republicans put a provision that says even if your state issues educational identifications that meet all of those requirements, they can't count. So the State University of New York, which is a large university system in New York, even if they issue IDs that have all those qualifications, they can't count.
+
+And the University of North Carolina, a state issued ID by the state of North Carolina can't count. The University of Texas can't count. Indiana University can't count.
+
+They have essentially dictated to the states one specific kind of photo ID that cannot count. And that seems like just completely calculated to target a population that they think doesn't vote Republican. And then the other piece of it, Congressman, that I would add to this equation is that I went back and looked at the excuses that your colleagues gave when the Freedom to Vote Act was up.
+
+And the number of Republicans who said that they support voting rights, but that they don't believe in dictating to the states what election rules are. Oh, yeah, yeah, no, I'd be in favor of these things, some of the moderates said. But, you know, I think it's better left to the states to decide these kinds of things.
+
+Where did all the states' rights people at the Republican conference go?
+
+[Rep. Dan Goldman]
+Well, there's Lisa Murkowski, who is probably the only one at that exact point. And that's exactly right. Look, at this point, we all know that the Republicans are full of shit and will literally say whatever it is that they need to say to either pass something or defeat it.
+
+And I think that's what is frustrating is that they're literally just lying to the American people in an effort to fix the election. Now, there still is the filibuster. And so this does, under the current rules, need 60 votes to pass in the Senate, which, of course, they do not have.
+
+But there are a lot of rumblings that they're talking about changing the rules of the filibuster so that it's not just simply if you don't vote for it, then you don't get to 60. And so, you know, I think there are a number of Republicans who are against that. I don't think they have the votes to do that yet.
+
+But I think this is a real massive effort on their part of doing everything possible to be able to suppress the Democratic vote.
+
+[Marc Elias]
+I want to end with this. We need to keep you in Congress because, you know, the reason I keep having you on is because you are one of the most effective members of Congress. And if we got you in the majority, we would solve a lot of the problems of this country.
+
+So, you know, I wish I lived in your district and I could vote in your district because you'd have my full support and endorsement. But tell us how is it going and what can we do to help support you so that we keep you in Congress and we get you a gavel and we let you do the things we need to do to protect democracy?
+
+[Rep. Dan Goldman]
+Yeah. Well, I appreciate it, Mark. And I certainly am hopeful that when we do flip the House in November, and I feel very confident we will, you know, that I'll be on the I'll be on I'm on the Judiciary Committee and I may have a, you know, more elevated role and be working with Jamie Raskin hand in glove to investigate this administration.
+
+And and as you point out, I as the lead counsel for the first impeachment, I've done it. We proved our case. We impeached him.
+
+And it was not for a lack of obstruction by Donald Trump that he was not able to undermine us. And and I do think that's important because we are going to encounter unprecedented obstruction from this administration. And so we're going to have to do what we did even more creatively in the first impeachment, which is figure out ways around that obstruction, which, you know, I I have 10 years of experience as a prosecutor, which has given me a lot of experience in finding alternative ways to get evidence.
+
+And so I very much hope to be there in order to do that. I am have a primary opponent in my district in New York City. And, you know, I think that everything is going well on the ground.
+
+I think we feel very good that that possibility of me being on those front lines when the biggest threat to every American comes from sixteen hundred Pennsylvania Avenue. It does not come from overseas and it does not come from, you know, in our cities and states right now. And that we really do need members in Congress when we have Trump still is going to have two more years.
+
+It's going to control the executive branch, control the DOJ. Congress is going to be the real, you know, the real source of accountability. And I think that a lot of folks are recognizing that notwithstanding, you know, if they have some policy different differences with me, which I think most people actually don't, that this is the most important thing that we're facing right now.
+
+That's getting through. And, you know, we're plugging away. It says, you know, things are expensive.
+
+And I was out a couple of weeks ago. You know, it's a June primary. I was out a couple of weeks ago in negative 10 degree weather knocking on doors.
+
+I'm all in to make sure that I'm there next January so I can hold this lawless, corrupt president accountable.
+
+[Marc Elias]
+All right. So I'm just going to say, if you're in the congressman's district, let me just tell you, I don't know what the policies, the differences are here and there, but what we need right now is to protect democracy. Like, all the policies in the world are not going to solve our problems if we don't have a functioning democracy.
+
+Every issue you care about, none of them are going to matter if Donald Trump is able to be an authoritarian. And the guy who is going to fight to protect democracy, the guy who has shown that he's willing to stand toe to toe against this guy, against all the threats, against all the mega extremism, against all the hate that comes with it, is this guy. So if you live in his district, you got to vote for Dan Goldman.
+
+And if you don't live in his district and you care about the future of voting rights and holding Donald Trump accountable, you need to be supporting this guy. So we're going to put a link in the description for how to donate to your campaign congressman. And I don't want to hear any of the nonsense from people who are saying, yeah, but what about, yeah, you're not going to get to what about without fighters in Congress?
+
+And this guy is a fighter.
+
+[Rep. Dan Goldman]
+Well, thanks, Mark. I appreciate it. And you and I will continue to ring the alarm so that people know, can anticipate what is going to happen, which I do think is a really, really important part of it because when it then does happen, people are oriented and they're saying rather than, oh, I'll believe what Donald Trump says, it plays right into how, you know, you do so well in anticipating what's coming next.
+
+And I try to be there with you.

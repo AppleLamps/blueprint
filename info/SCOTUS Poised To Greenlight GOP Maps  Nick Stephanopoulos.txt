@@ -1,0 +1,359 @@
+[Marc Elias]
+Your right to vote is under attack and it's hanging by a thread. From aggressive gerrymandering to Supreme Court challenges aimed squarely at the Voting Rights Act, free and fair elections are under an unprecedented threat. My guest today, Nicholas Stephanopoulos, is one of the nation's foremost experts on election law.
+
+He's a professor at Harvard Law School and the leading authority on redistricting and gerrymandering. He joins me to discuss how we got to this moment, why the Supreme Court is poised to dismantle the most important part of the Voting Rights Act and what this all means for upcoming elections. But before we get into it, subscribe to this channel to stay informed about how you can defend democracy.
+
+Nick Stephanopoulos, welcome to Defending Democracy. Thank you very much for having me, Mark. I have been looking forward to this conversation because you are, I mean, we know each other and we're friends, but you are probably the nation's leading expert on redistricting, and in particular, questions of how one judges what are and are not fair districts.
+
+So this is something for people out there who are watching that is sort of an intuitive thing that both strikes you when you see it, but also is elusive because what one person would say is fair, for example, districts that allow for competitiveness, is not necessarily what someone else thinks is fair, which is districts that allow different groups of voters to elect their candidates of choice, right? You might have one person that says if there are 10 districts, what's fair is, and you have two equal, you have two parties, both at 50%.
+
+One side would say what's fair is five districts that would vote for the Democrat and five districts would vote for the Republican. Another person would say, no, what you actually want is 10 districts that either party could win. So since you're the expert, why don't you tell us, how do you think conceptually, and then we'll get into the practicalities, how do you think conceptually about the question of fairness?
+
+[Nicholas Stephanopoulos]
+Yeah, great. So you're right that there are lots of different goals in redistricting. And so because of that, it can be hard to agree on whether a given map is good or not.
+
+It depends on which objectives we're talking about. We're talking about voting rights out compliance, or compactness, or competitiveness, or fairness to the two parties, or what have you. And so I think the concept of partisan fairness is not going to help us decide between partisan fairness and other goals.
+
+We might have to decide how to weigh partisan fairness or unfairness against competitiveness, or VRA compliance, or you name it. If we agree that we're focused on partisan fairness, then I think there are really two ways of measuring the partisan fairness of a district plan. One is by looking at statewide vote shares and statewide seat shares for parties.
+
+Those shares don't necessarily have to be exactly equal. There are various metrics to talk about how the statewide vote ought to translate into statewide seats. I've written about some of those metrics.
+
+But one family of approaches looks at statewide vote and seat shares. The other method is to instruct the computer algorithm with all of the nonpartisan goals that you have. And you then instruct the algorithm to spit out a thousand, a million, lots and lots of district maps.
+
+Then you bring partisanship back into it by evaluating what are the partisan characteristics of those million simulated maps. And you compare the challenge plan to that distribution of simulated maps. And in some of the egregious gerrymandering cases that we've seen over the last decade or so, we find that the enacted plan is way outside that distribution, which is another way of showing how egregious the plan is.
+
+Academics fight a lot over whether it's better to focus on simulations or whether it's better instead to use these seat vote metrics. I tend to think both are necessary and that we only are really offended by a plan if it's quite bad in how votes translate into seats and also if it's kind of an outlier relative to the distribution of computer generated maps.
+
+[Marc Elias]
+Let me ask you this, because I think for non-lawyers, one of the questions I get the most is why are people allowed to partisan gerrymander? I think that it is not intuitive to most people that what we are witnessing is an era in which legislators are defending their maps by saying, I partisan gerrymandered. So you are both an expert in law, you're a constitutional law professor, you're also a rare breed in that you are both that and also a quantitative expert.
+
+I mean, you might as well have a PhD in statistics and higher math, which you don't. But anyway, I'll tell you, anyone who's worked with this guy knows that he's equally comfortable on both sides of that equation, which is unusual. So put on your lawyer hat for a second, set aside the statistics part.
+
+How did we get to this place?
+
+[Nicholas Stephanopoulos]
+Yeah, we got here because as you say, one could easily argue that the sitting government should not be allowed to use the power of the state to harm a certain faction on the basis of political viewpoint. That was Justice Stevens's position for many years. Justice Kennedy sometimes said things along those lines.
+
+And I think there's a lot of merit to that position. So how did we get here? Well, we started on a good path where in 1986, the Supreme Court said, yeah, severe partisan gerrymandering can be unconstitutional.
+
+So we had a promising beginning 40 years ago or so. But then a lot of the current problems can be traced back to V Jubilee in 2004, where Justice Scalia, writing for plurality of the court.
+
+[Marc Elias]
+And this was a redistricting case, so everyone's clear.
+
+[Nicholas Stephanopoulos]
+Yeah, a case about partisan gerrymandering and what, if ever, is a partisan gerrymander and how should we identify partisan gerrymanders. So back then, Scalia said that the intent to advantage a particular party and to handicap an opposing party is perfectly legitimate. We've had gerrymandering since the founding.
+
+And so Scalia kind of asserts without a lot of support that this is permissible governmental activity that only gets four votes in V. And Justice Stevens objects to that claim. A lot of Justice Kennedy's crucial concurrence also disputes that claim.
+
+But then fast forward from V to Rucho v. Common Cause, the 2019 partisan gerrymandering case. There, Chief Justice Roberts now has five votes to basically echo everything that Scalia said in 2004.
+
+Why are we where we are? Because in 2019, Roberts echoed Scalia in saying that a partisan motivation in redistricting is perfectly permissible. And so given that, states around the country have run with that, and they've gerrymandered as aggressively as they can.
+
+And they say that the Supreme Court says this is totally fine. And as you noted, they then use the practice of partisan gerrymandering that they're engaged in to defend themselves against other kinds of claims, like racial gerrymandering claims.
+
+[Marc Elias]
+Let me press on this a little bit, because this may seem like a small distinction, but I want to understand where this breaks down, like how this works out. It strikes to me that there are three places that justices could be if they are allowing partisan gerrymandering. The first is, which is what I had understood them to be saying, at least some of them, is partisan gerrymandering is bad.
+
+It can go too far. It can constitute a constitutional violation. But we as courts are not equipped to know how to measure it or where to draw the line.
+
+So that's kind of like one position, which is it's bad, but we're not the right people. We don't have the tools to do anything about it. The second is to say it is not necessarily unconstitutional.
+
+It's still undesirable. But it's been around, and we're simply not going to wade into it. We could have the tools, but we're not going to use the tools.
+
+We're just not wading into it. And the third is, no, actually, partisan gerrymandering is a traditional redistricting criteria. It's no different than keeping cities or towns together.
+
+It's no different than keeping communities of interest together. It's kind of a normative, if not good, it's certainly not a bad. It's just fine.
+
+It's part of the American process. Where is the Supreme Court on this?
+
+[Nicholas Stephanopoulos]
+Yeah, that's a great way of thinking about different possible judicial positions on partisan gerrymandering. So officially, the court in Rucho says some blend of one and two. Both of those strands are in Rucho that, look, we concede that extreme partisan gerrymandering is unconstitutional, but what a shame that there isn't a judicially manageable standard for distinguishing really extreme from just kind of medium or mild gerrymanders.
+
+And there's also a strand in Rucho that, look, it would be unseemly, it would be kind of inappropriate for federal courts to be in the business of parceling out political power. And so even if we had the tools, we don't want federal courts playing this very powerful role and very partisan role. That's Rucho.
+
+I totally agree, though, that since Rucho, the court has been sliding into the position you described, where partisan gerrymandering is characterized as fine, no different than any other legitimate redistricting objective. And so therefore, just as drawing compact districts can be a defense against a charge that race predominated in redistricting, so can partisan gain. Because after all, partisan gain is no different than drawing compact districts.
+
+And either way, it's not the same thing as a racial motive. And so if the motive is partisan, then that's a defense against a charge that the motive was racial. So I think it's deeply disturbing how we've seen this kind of ratcheting down from Rucho forward and how now partisan gerrymandering is seen as legitimate, normal governmental activity.
+
+[Marc Elias]
+Do you worry that, as I do, but I'm hoping you're going to give me a reason why this is not something to worry about, that once you open the door and say partisanship in election rules, because after all, districts are just a form of election rule, right? But it's one of many rules that govern elections. Once you say that partisan motivation is acceptable, and in fact, maybe even sort of openly fine as a justification, why does it stop with redistricting?
+
+Why doesn't it go to other kinds of motivated rules? I think back to the 2013 case in North Carolina where the Fourth Circuit struck down the North Carolina voting restrictions as targeting African-Americans with near-surgical precision. This was the quote, where the evidence was that legislature had asked their staff to compile the impact of various challenges on voters that they could make if they changed one set of rules or another rules.
+
+How would it impact black voters, white voters? And that was struck down. I'm worried that under the court's reasoning, the state of North Carolina could say, okay, let's do that same analysis, but let's figure out which voting rules will disadvantage Democrats and which ones will advantage Republicans.
+
+And that could get rather extreme and grotesque in the same way that the partisan gerrymandering does. Is there a doctrinal reason why this limits itself limits to districting, or am I right to be worried that it could go broader?
+
+[Nicholas Stephanopoulos]
+I don't think there is a good logical reason why this notion would be limited to redistricting, right? The notion is that partisanship and the pursuit of partisan gain is a fine justification for some electoral policy. And I agree with you that redistricting is just an electoral policy.
+
+And so is deciding what are the rules for voting. So is deciding what ballots are going to look like. Are you going to have mail-in voting or not, early voting or not?
+
+And so part of why some scholars argued that partisanship shouldn't be recognized as permissible in the redistricting context is that we don't recognize it as a valid basis for action anywhere else. But once we cross that bridge in the redistricting world, I agree it's not clear how we can quarantine that approach to redistricting alone. My sense is that for the most part, since Russo courts have quarantined that view to redistricting, they haven't accepted the view that post-Russo partisanship is a valid justification for any voting restriction, any voter suppression you can think of.
+
+But I'm not sure if there's a good logical reason for that limitation. And so, yeah, I'm quite worried that Russo might end up colonizing more or all of election law. And then we'd allow most or all electoral regulation just for the sake of partisan gain, which would unravel anything courts think they're doing when these kinds of cases go to them.
+
+[Marc Elias]
+You mentioned a couple of things I want to unpack further. The first is something that strikes me. I'm a lawyer.
+
+I have a graduate degree in political science, but I'm not a historian. So maybe you can help here since you undoubtedly have studied more about the history of the Constitution than I have. One would think that curtailing state actors, state power, is actually one of the central reasons we have a Constitution.
+
+The Constitution is full of things like, no, Congress shall not, or the states can't. The Constitution puts all kinds of restrictions on state power. And giving those in power the ability to draw maps to perpetuate themselves in power would seem like a natural fit for something that the Constitution would say you can't do.
+
+You mentioned this as a constitutional theory. Talk a little bit about what that constitutional theory looks like. I'll be right back with more of my conversation with Professor Stephanopoulos in a moment.
+
+But you know, Donald Trump and the Republican Party, well, they're attacking free and fair elections. And our democracy is at a tipping point. But the Democracy Docket team is growing to meet this moment.
+
+But it needs your help to hold Donald Trump and Republicans accountable. For just $10 a month, you'll get access to exclusive events, insights from me, and much, much more. But most importantly, you'll help the 22-person team do the work it needs to do to keep you informed.
+
+Become a premium member now by clicking on the link in the description below.
+
+[Nicholas Stephanopoulos]
+Yes, I think you're describing what constitutional lawyers would call political process theory or footnote four of Carolene Products for the con law students among us. And so this is an idea that in general, we don't want the courts intervening too much in our political process. We like for most garden variety decisions to be made by more legitimate elected officials.
+
+But then sometimes those elected officials are using their state power to entrench themselves in office, to handicap political rivals. And they can do this through redistricting. They can do it through voter suppression.
+
+There are all kinds of techniques that clever politicians can use to keep themselves in office and to keep their opponents out of office. And when that's going on, you can't trust the political process to fix the problem. The political process is the problem.
+
+The political process is the thing that's generating the gerrymandering or the voter suppression or what have you. And so very old and well-regarded theory of constitutional law says this is the one quintessential scenario when we want judicial intervention. The courts are the only actors that are well-positioned to fix the political process malfunction, to stop the elected officials from feathering their own nests and keeping themselves in office.
+
+So in the current court, Elena Kagan deeply, deeply believes in political process theory. She's outlined this view in her opinions, maybe more than any other justice in the court's history. But the court is very clearly a non-political process theory court.
+
+So after Rucho, I wrote an article called the Anti-Caroline Court, by which I meant that this is a court that no longer believes in footnote four of Caroline products. It might be an originalist court or a textualist court, or just an ideologically conservative court. But if there's one thing it's not, it's a court that still believes in the basic message of footnote four.
+
+And so I find that deeply depressing. In my mind, the political process theory is the most attractive theory that I've come across for what the courts ought to do in a democracy like ours. And so it's really disappointing to see a Supreme Court that absolutely 100% does not believe in political process theory.
+
+[Marc Elias]
+Just out of curiosity, I don't know the answer to this, but is the political process theory historically a left of center, right of center theory, or have you had proponents of it on both sides? I actually don't know where it fits in. You talk about originalism or textualism, and everyone understands those are right-coded theories.
+
+Although you can have textualists and originalists on the left, they tend to be more associated with the federal side in the right. Is this a theory that breaks down that way or not really?
+
+[Nicholas Stephanopoulos]
+I think not entirely, because politicians of all kinds can try to entrench themselves in office. And so there's no obvious partisan or ideological valence to saying that courts ought to step in and stop this kind of entrenchment. Historically, it was the Warren Court that kind of pioneered political process theory, although it was an earlier court that gave us Caroline Products.
+
+Yeah, because Caroline Products goes way back, way before the Warren Court. Yeah, it's a New Deal-era decision. But the Warren Court didn't use political process theory to help Democrats and hurt Republicans at all.
+
+I think, if anything, Democrats in the South, Democrats in big cities were maybe the political actors most affected by the Warren Court's political process theory, because the Warren Court insisted on one person, one vote. In one-party democratic bastions like the South, the Warren Court, with the aid of Congress, forced Southern states to enfranchise African Americans. So I don't think there was a clear partisan valence to how the Warren Court used political process theory.
+
+But it is true that the Warren Court was sort of the pioneer of the theory.
+
+[Marc Elias]
+Okay. The second thing I wanted to unpack, because this is something I have posited based on my own personal experience, but you have more of a frame of reference, both historical and current, than I do. And that is the role of technology in redistricting.
+
+So my theory is that people get misled by saying there has always been gerrymandering. Because what gerrymandering meant was, when I first started being involved as a lawyer in the redistricting process, it meant taking out a physical map and a bunch of political operatives, sometimes with census data, okay, like literally census data, and the last electoral data that the counties had, which was usually either by county or maybe by precinct. And you would, by hand, look at the map and you would say, okay, I think that town is a good town for us.
+
+I think that city, the West side is better than the East side. It was gerrymandering, but it was impressionistic. It was aided by census data and vote data, but it was not computerized.
+
+And then over the successive decades, computers got involved, but they were still clunky. They were computers, but they were taking long periods of time to do anything. And now what strikes me is that someone like you can say, without batting an eyelash, you run a thousand or a million simulations.
+
+And I'm thinking, okay, just so everybody knows, you used to not be able to run 10 simulations. Now you can run all of these. And so my view is that the perniciousness of gerrymandering is growing worse because the technology is getting better.
+
+[Nicholas Stephanopoulos]
+Yes, I think that's certainly true up through the technologies that we started to have in the 2010s, let's say. So by the 2010s, software like Maptitude was everywhere. And so Maptitude doesn't create a whole map for you, but it makes it really easy to just point and click and create a map.
+
+You don't get the map instantly, but you get the map in half an hour or an hour of clicking around. And certainly by the 2010s, if not earlier, there was widespread granular electoral data. So you could combine rapid redistricting along with pretty good political data on how different precincts were likely to vote.
+
+And so I think that combination started to lead to substantially more effective gerrymanders by the 2010s. And this shows up empirically. If you look at maps before the 2010s, they often broke down.
+
+A map would have 80% seats for one party the first year, but then voters would float around, and it's anyone's guess how the map would be performing by the end of the decade. But in the 2010s, basically none of those gerrymanders broke down over the course of the decade. In this cycle, none of the gerrymanders has broken down.
+
+The one technology that I think is not yet being used much in real redistricting is this algorithmic redistricting. So to my knowledge, at least, human line drawers with real power to adopt the maps, I don't know. I don't think they're telling an algorithm, you know, give me a million options or optimize for me along partisan fairness and some other criteria.
+
+I should say that even if human line drawers are using algorithms, they probably wouldn't tell us. And there are a couple hints that in some states, maybe the algorithms are being used. So Florida, this cycle has an extremely aggressive pro-Republican map, but you would never be able to tell by looking at the Florida map because its districts are quite compact, better than in previous cycles in their compactness.
+
+And so I have a suspicion that in Florida and a few other states, maybe somebody told a computer, give me a map that is really pro-Republican, but also respects county boundaries and has compact districts. I can't prove it, but it's just a suspicion I have based on how nice the Florida map looks to the eye, but then also how it's more Republican than virtually any other map that a computer might spit out.
+
+[Marc Elias]
+That brings me to my next question about redistricting that people ask me, which is, okay, if you've got everything you just said as bad, everything, all that's not, none of that's good. It's worse when they can redraw these maps several times over a 10-year period because, you know, professor, maybe you would, a map would break down over 10 years, but if they can redraw the map in the middle of the cycle, then you don't have to worry about it breaking out over 10 years because it could be more frequent. So a lot of people have asked me, why is that allowed?
+
+[Nicholas Stephanopoulos]
+It shouldn't be allowed, right? If you think that a partisan motive is bad to begin with, when you have this, you know, partisan motive combined with, you know, tuning up and fine tuning districts every couple of years, just to nip any competitive threats in the bud, it's even more anti-democratic and it's even more problematic. So sign me up for, you know, banning mid-decade redistricting.
+
+It's allowed because a court that thinks a partisan motivation is permissible has no reason to ban mid-decade redistricting, right? If you don't think partisan or anti-competitive line drawing is a problem in the first place, then you don't really care if it happens in a year ending in one or a year ending in, you know, three or five or seven. And so the logic of the court's own position kind of compels it to bless mid-decade redistricting.
+
+And we've seen the court saying exactly in the Texas case a few weeks ago, the court basically said that, like, there's nothing wrong with mid-decade redistricting. If, you know, Texas wants to do it and Florida wants to, sorry, California wants to do it, that's just life. There's nothing illicit that should involve the court in this process.
+
+[Marc Elias]
+I think that's wrong. And I think it's actually, it's another place kind of like how we talked about how originally they were like partisanship is bad, but we don't have a way to measure it. And now it's like morphed under the current court to like, maybe it's just fine.
+
+I feel like the same thing has happened here with mid-cycle redistricting. I mean, the original case that allowed mid-cycle redistricting, if you actually go back and read it, what they said, and now maybe they didn't mean it or whatever, but what they said was that the original Texas map that had been drawn was drawn by a court because there was a deadlock. And so the mid-cycle redistricting that they were allowing to go forward was being drawn by the legislature.
+
+So part of the Supreme Court's rationale was, look, the legislature is given the constitutional authority to draw a map. So given that the Texas legislature never had an opportunity to draw this map, we're going to let them have this opportunity. That has somehow translated into the current thinking as a blessing, all mid-cycle redistricting all the time.
+
+And I'm not sure I agree that that is the right reading of even that case, which at the time I disagreed with.
+
+[Nicholas Stephanopoulos]
+Yeah, I agree that the 2006 case didn't clearly give the green light to what we've seen over the last six months. I should just point out, like we have never seen this kind of mid-decade redistricting since the Gilded Age. Once upon a time, this kind of thing did used to happen.
+
+There's a great book by Eric Engstrom, who's a political scientist someplace, has a great book on the history of gerrymandering in America. And yeah, in the 1870s, 1880s, 1890s, a lot of states would redraw their congressional maps in the middle of the decade for exactly the same reasons we're seeing today—protecting incumbents or just fine-tuning a gerrymander. This all kind of stopped around the turn of the 20th century.
+
+So we had 120 years of relative calm mid-decade that has now been shattered over the last six months. It's a really old, long-standing norm that's now disappeared in redistricting.
+
+[Marc Elias]
+All right, I want to switch gears and switch topics a little bit. You wrote a very interesting book, at least a very interesting book for me, called Aligning Election Law, in which you talk about alignment theory and potentially it as a partial solution. We're not really talking redistricting specifically.
+
+We're talking more about voting and the way in which we conduct elections. I doubt many people listening to this have heard about alignment theory. So could you just explain what it is?
+
+And then I know you have a particular take on alignment theory that you think should be found, but let's just start with the top line.
+
+[Nicholas Stephanopoulos]
+Yeah, great. So by alignment, we mean the government basically doing what the people want the government to do. And so when there's alignment, there's a good fit, there's congruence between governmental policies, between who holds office and voters' preferences as to who's elected and what policies are adopted.
+
+And so my argument is that when we think about election law, both how to write election law and how courts should decide election law cases, we should recognize alignment as one of the basic goals of the electoral system. So I would answer the question, what are elections for? They're for producing alignment between what the government does and what people want the government to do.
+
+And so that's the top line of the theory. It has implications for lots of different kinds of cases. But the basic claim is that when structuring elections and when resolving electoral disputes, we should prioritize the pursuit of alignment.
+
+[Marc Elias]
+Let's talk about it specifically with respect to voting laws, and in particular, how courts address various voting laws. Because what you see in many states are partisan actors, the legislatures are definitionally partisan actors, making laws and changing laws after different elections where they think they are combating either liberalizing or restricting laws. And those wind up going to court.
+
+It's one of my frustrations that the judges are so deferential to legislatures in that process. So what would alignment theory tell a judge to do when looking at a particular election law?
+
+[Nicholas Stephanopoulos]
+So alignment theory would say, look at whether a particular voting rule is distorting who actually manages to vote relative to the whole pool of people who are eligible or entitled to vote. Let's say in a given state, 50% of the eligible voters are Democrats. But let's say that some really effective voting restriction manages to disproportionately target Democrats, and it produces an electorate that is 55% Republican, unlike the 50-50 total eligible electorate.
+
+Then that would be a hugely misaligning voting restriction that I think courts ought to strike down. That would be a voting restriction that manages to totally distort the actual pool of electors relative to the bigger pool of who's eligible to vote in the first place. I'll add that that kind of voting restriction, it happened in the past.
+
+Jim Crow voting restrictions had those kinds of huge partisan effects. In the modern era, there are few, if any, voting restrictions that have such big partisan or ideological effects. Some voting restrictions have some effects, but they're not on the scale of some of the historical examples that we might come up with.
+
+[Marc Elias]
+OK. So one of the things that I've had a number of guests on, including a number of, actually, some of your colleagues from Harvard on, and we talked about a bunch of different theories, constitutional theories, political science theories. I feel like we are, as a pro-democracy movement, we are kind of in the following place, which is that ideally, government should be aligned with the voters and that government policy should be aligned with that people should vote in elections, that they should choose leaders, that the leaders should be able to implement their policies.
+
+How do the courts fit into this? Because the courts are inherently anti-majoritarian. The courts are inherently frustrating, in some ways, frustrating exactly the alignment between the voters and their elected officials.
+
+[Nicholas Stephanopoulos]
+So courts aren't the only actors under alignment theory. I really want Congress and state legislatures and the people themselves, through direct democracy and referenda, to pass voting laws that are aligning rather than misaligning. And I think if you look across American history, a lot of the aligning milestones have been the product of the regular political process, not courts.
+
+The Voting Rights Act, parts of campaign finance law, the Reconstruction Amendments, those were all products of the regular political process. Courts still have a role for the reason we talked about before when we chatted about political process theory. Sometimes elected officials want to do really misaligning things if that misalignment benefits them politically.
+
+And in those situations, if the politicians have the power of the state behind them, there might be nothing you can do about it through the regular political process. And so then you might need courts to step in to strike down a really misaligning gerrymander, or a really misaligning voting restriction, or what have you. So courts aren't the central player in my alignment view, but courts sometimes have to play a role when politicians are doing misaligning things.
+
+Let me also say that I don't think alignment should be brought up at all in a garden variety court case. It's totally true that courts decide things based on law, not public opinion. Courts themselves are counter-majoritarian institutions.
+
+All of that's fine with me because I only really focus on alignment when we have a particular policy that can then downstream cause a lot of either better or worse alignment. I don't care much at all if there's alignment or not with respect to a particular issue that comes up. So we really need to focus on district maps, voting, things like that that affect alignment downstream.
+
+We don't need to consider alignment at all if this is a commercial dispute, or if this is a dispute about healthcare, or guns, or you name it, because most policies have nothing to do with downstream alignment or misalignment.
+
+[Marc Elias]
+You also have, I think, more recently talked or had views on ranked choice voting. I have to say, I am one of the few liberals who – I won't say I'm skeptical of it. I would say I am open to it, but I worry about its actual practical implementation.
+
+It is quite complicated. For all of the reasons that elections can be complicated, ranked choice voting adds another level of complexity. I understand the theoretical basis for thinking you will wind up with better results, but I'm not sure that those have proven themselves.
+
+I am neither an opponent nor a proponent. I'm kind of like in the wait-and-see mode. Tell us what your view is of ranked choice voting and where its strengths and weaknesses are.
+
+[Nicholas Stephanopoulos]
+I distinguish between ranked choice voting for a single position, like for governor, for senator, or what have you, as opposed to ranked choice voting for multiple seats at once, like in a multi-member legislative district. I'm kind of a lukewarm supporter of ranked choice voting in single-office situations.
+
+[Marc Elias]
+Which is what I was talking about.
+
+[Nicholas Stephanopoulos]
+I think ranked choice voting avoids spoiler effects where some candidate would have won a two-party or two-candidate race, but because some votes went to a third candidate, the truly majoritarian candidate ends up losing. This is like the Ralph Nader effect in 2000 in Florida. To me, that's a big deal because you don't get too many outcomes.
+
+You don't get too many spoiler situations. But where you do get a spoiler, you get a really undemocratic outcome, like in Florida in 2000. Just for the sake of avoiding spoilers, I tend to be moderately supportive of ranked choice voting for single-winner elections.
+
+But I tend to agree with you that some of the arguments made about single-winner ranked choice voting are kind of overblown. The system still basically works the same way, whether you have plurality voting or ranked choice voting. So I think the system makes a much bigger difference if you have multiple winners.
+
+If you have three or five-member districts elected using ranked choice voting. Because if you do that, that's really a system of proportional representation for parties, for racial and ethnic groups, for any cohesive political group in the district. The great appeal of any form of proportional representation is that it kind of solves, in one blow, all of the problems with gerrymandering.
+
+If proportionality is basically guaranteed along partisan lines, ethnic lines, racial lines, then you don't need a Voting Rights Act to litigate over. You don't need a partisan gerrymandering claim. PR basically provides fair, accurate representation for every cohesive group.
+
+And so I'm much more of a fan of ranked choice voting in the multi-member context, just because it simplifies things enormously. It might put election lawyers like us out of our jobs, because there wouldn't be a need for a lot of litigation if we had PR producing kind of fair, aggregate outcomes. So yes, I think it's important to distinguish between the single and multi-winner context.
+
+[Marc Elias]
+No, I'm glad you did, because I was talking about the single winner. But you anticipated my next question, which is, for as long as I've been a lawyer, which has been a while now, I have been conditioned to never claim that anything is proportional. You're talking about proportionality as a good thing.
+
+I've been brought up that the Supreme Court has been enthroned at plaintiffs in cases. What's the deal here? Why is the Supreme Court so anti-proportional?
+
+And why do you think it's wrong there?
+
+[Nicholas Stephanopoulos]
+Yes, the court has only been anti-proportional as a matter of what's constitutionally required. The court has never, ever said that proportional representation has any kind of constitutional problem with it. The court's view has just been that the standard for partisan gerrymandering, the standard for racial vote dilution can't be proportionality.
+
+Why is the court so anti-proportionality? I think it's, was it Justice Marshall who once wrote about the court's fear of too much justice? If you recognize proportionality as the norm, the implication is that an awful lot of current electoral systems are unfair, unjust.
+
+Our system is fundamentally majoritarian and super majoritarian. It's not proportional. And so maybe the court is worried about the consequences that would result if proportionality is recognized as the ideal.
+
+Even the court can't escape the pull of proportionality. When the court tells us what is de facto dilutive versus non-dilutive in the racial context, the court says proportionality of a group, of a racial group's representation. That's de Grandi 30 years ago.
+
+And in LULAC, when Justice Kennedy is trying to reassure himself that the Texas plan there isn't that bad, he basically says it's proportional. So look, it can't be that bad if it's basically proportional in its outcomes. So I think even for the anti-proportional court, proportionality still always has some attraction for them.
+
+But the key point is just like, no one has ever claimed that there's anything unconstitutional about a system of proportional representation.
+
+[Marc Elias]
+Last few questions I have for you are about your job, which is you're a law professor at Harvard University, which is quite a good law school. And I've been talking, as I've been talking to different law school professors, including, like I said, Nicholas Bowie at Harvard, Eddie Galat, who's not a law professor, but is a professor at Princeton, and others. I've been asking them about their students, what it is like to teach people who want to enter a profession where there seems to be so much chaos in the legal establishment and legal doctrine.
+
+I joked with someone, I can't remember who, I said, whoever gets assigned teaching Fed courts has my sympathies. Because you begin the year with one set of texts and cases, and you end the year with a different set of texts and cases. And sure, the Supreme Court's always issued opinions throughout the year, but it feels like it is a much less well-ordered legal system.
+
+You can't say, here's the originalist, here's the textualist, here's the established doctrine. Chevron, which was the cornerstone of administrative law, I don't know what the hell administrative law professors are teaching now. What is it, are you finding it easier, harder?
+
+Are you finding the students more engaged, more cynical? What is it like in an American law school classroom now?
+
+[Nicholas Stephanopoulos]
+Yeah, it's a great question. It depends a bit on which classroom, which students we're talking about. I teach 1L constitutional law.
+
+I also teach election law to second and third year students, and I'm also active within the election law clinic at Harvard litigating election law cases. So I would say in 1L con law, it's very hard to convince the students that anything other than raw ideology, raw politics is behind a lot of the Supreme Court's recent constitutional decisions. They see Dobbs supplanting 50 years of earlier abortion jurisprudence.
+
+They see SFFA replacing also 40, 50 years of affirmative action law. And it's pretty obvious that we got Dobbs and SFFA just because of changes in the composition of the court. Not because any new arguments were more persuasive, not because the facts changed at all, but just because the membership of the court changed.
+
+So I'm not sure whether that's good or bad, but I think my current students have more of a view that Supreme Court jurisprudence is the product of power, numerical ascendancy, rather than arguments, logic, theory, anything like that. And I don't disagree with that. I think the change in the court is why we got Dobbs, SFFA, you name it.
+
+There's also, I think, especially in the second Trump administration, a bit of fear of doing outspoken things, which I think is really awful. You want an academic environment to be open, a home for disagreement, for loud idiosyncratic views. And I do feel like in a professional school, in highly charged areas like constitutional law, there are some students who may not say or write or otherwise express what they really think about some of these issues.
+
+And that's really a shame. I guess the last thing I'll say, though, is that within the clinic, the clinic attracts a lot of the people at Harvard that are most interested in democracy, electoral change, reform. And so for some other students, though, the current environment motivates them to double down and work harder than ever for changing the world.
+
+And so I've been really impressed and inspired by a number of the students in the clinic who are bold. They're saying what they think. They're mobilizing, notwithstanding the broader legal and political moment.
+
+So I think the answer just varies a lot based on who you're talking to within a big law school like Harvard.
+
+[Marc Elias]
+Going to your first one, do you think the court is aware of this? I mean, I argued a case for the Supreme Court a month ago, and it's a campaign finance case involving the limits on coordinated party expenditures, kind of an arcane issue. It's an important issue, though, in the area of campaign finance law.
+
+This is a provision that was put in the law in the 1970s and was essentially upheld in the original Buckley v. Valeo, the seminal decision for election law. It then was challenged by the Colorado Republican Party in a case that the Supreme Court heard in the mid-1990s, and the Supreme Court sidestepped the issue but didn't give the Republican Party what they wanted.
+
+They didn't strike down the limit. They decided on other grounds. Then the Colorado Republican Party came back again and got it back before the Supreme Court in 2001, and the Supreme Court upheld this limit.
+
+By the time I wind up standing before the nine justices in the U.S. Supreme Court, this limit has now been subject to review over and over again. I mean, I'd argue it was also subject to review after the McCain-Feingold, after the Bipartisan Campaign Reform Act was passed because it made changes to this limit, and that went to the Supreme Court. The Supreme Court had touched this limit on many, many occasions and, in fact, had struck down another provision in a case called McCutcheon, in part because this limit was in place, right?
+
+So this was something that the court had touched through its various iterations many, many times. And as I stood there, I was thinking, as you say, what has changed?
+
+[Nicholas Stephanopoulos]
+How would you articulate to your students what has changed? Yeah, I think the sad reality is that what's changed is there used to be four votes for striking down that provision, and now there are five or six votes for striking down that provision. And the current supermajority puts very little weight on earlier adverse precedent, not exactly zero weight, but the court is very happy to find flaws in earlier precedents, sidestep earlier precedents, say they've been overtaken by events.
+
+And so if this case comes out the way that many think it will, it'll be no different than the court reversing decades of precedent on affirmative action, abortion, the Voting Rights Act, partisan gerrymandering, you name it. I think it's really, again, too bad that we're seeing that numbers take precedence over any kind of respect for prior court decisions.
+
+[Marc Elias]
+Which brings me to my last Supreme Court case I want to discuss with you. So as we're recording this, we are waiting for the Supreme Court's decision in Calais, which is the Louisiana Voting Rights Act case, or it's actually a racial gerrymandering case, but which implicates the continued vitality of the Voting Rights Act. I think most observers, myself included, believe that the court is either going to overturn Section 2 of the Voting Rights Act, the last section, or implement a test for it that will effectively render it meaningless or virtually meaningless.
+
+This, too, is hard for me to square because the case that set the standard for Section 2, I think, was in 1982 or 1984, I can't remember which year Jingles was decided. But over the years, over the years, again, the Supreme Court has touched the Voting Rights Act, Section 2 of the Voting Rights Act, dozens and dozens of times. And only, what, two years ago, three years ago in Alabama, case out of Alabama, Allen v.
+
+Milligan, the Supreme Court essentially applied the Voting Rights Act, Section 2, under its current form. So again, if you're a young student, if you're a student taking con law and you're watching the Supreme Court, it's hard to understand how Section 2 of the Voting Rights Act could have gone from being the crown jewel, the thing that the Chief Justice promised us in Shelby County would continue to have nationwide application, that was 2013. And now here we are in 2026, and you got Mark Elias and Nicholas Stephanopoulos discussing whether or not this case survives any longer.
+
+[Nicholas Stephanopoulos]
+Yeah, I think what's even more bizarre about Calais than SFFA or Dobbs is the Milligan case from two years ago. The same supermajority just decided Milligan, where the court agreed that Alabama's congressional district violated the Voting Rights Act. And the court basically insisted that Alabama draw another black opportunity district in the state.
+
+So it's not even changed in the composition of the court from Milligan to today. Nothing's changed with respect to the membership of the court. So I find Calais even more baffling, even more so because as you mentioned, Calais is not a Voting Rights Act case.
+
+It's a racial gerrymandering case. So for the court to somehow strike down Section 2 here, I mean, I want to say it's just dicta because Section 2 is not implicated in this case. It's a racial gerrymandering case.
+
+If you want to strike down Section 2, wait for any of the half dozen big Section 2 cases that are floating around the lower courts right now. Yeah, I think the dramatic outcome in Calais, I will find more procedurally problematic than any other blockbuster court ruling in recent memory. So then why do you think this is the vehicle?
+
+I really don't know why it's the vehicle because there's no shortage of Section 2 cases. And it'd be so easy for the court just to say, yeah, sure, it's a racial gerrymander like many other findings we've had. So we strike down this one district in Louisiana and nothing changes for the Voting Rights Act.
+
+The court is going to have to jump through hoops and hoops and hoops to get to a substantive ruling about Section 2 here. And I really cannot answer why this is the vehicle.
+
+[Marc Elias]
+I'm going to end on an up note. When I had Professor Klarman on, he had just delivered, what do they call it? It's not the, what is it, the last lecture?
+
+Is that what they call it at Harvard Law School? And so he talked about democracy and he was hopeful about his students going on into the world and helping to protect democracy. I recommend anyone who hasn't watched it to go back and watch it.
+
+So we talked a lot about the reasons why your students should be you know, why the Supreme Court is not great. So what is the thing you tell them that's like, what is the positive case that you're giving them as you tell them why it's great that they're entering the legal profession in 2026?
+
+[Nicholas Stephanopoulos]
+Yeah, I tell them, look, federal courts right now are a hostile audience to a lot of pro-democratic arguments. But a lot of state courts are more receptive and state courts are becoming more and more important in election law disputes. I also tell them that lots of local and state governments are receptive.
+
+I think that sub-federal jurisdictions are doing more good pro-democratic things today than they have, I think, in decades or generations. Experimenting with pro-voter reforms, trying out new electoral systems, you know, there's lots of exciting stuff going on at the local and state level. And then I would say, like, we're not too far from really sweeping federal legislation, right?
+
+Like, Congress came within a couple of votes in 2022 from getting rid of the filibuster for democracy legislation in the Senate. And if Congress had done that, the bill that they came relatively close to passing would have been the most expansive, the most sweeping electoral reform bill in American history. So I think we're not too far away from a trifecta control in Washington where this is item number one or item number two on the agenda.
+
+And we get something a lot bigger than the Voting Rights Act enacted in the relatively near term. So I think things might look grim federally as of 2026, but they might look really, really different at this exact time in 2029, let's say.

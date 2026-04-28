@@ -1,0 +1,25 @@
+{
+  "name": "blueprint",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "remotion:studio": "remotion studio src/remotion/index.jsx",
+    "remotion:still": "remotion still src/remotion/index.jsx AgendaMap --frame=90 --scale=0.5"
+  },
+  "dependencies": {
+    "@remotion/player": "^4.0.372",
+    "lucide-react": "^0.475.0",
+    "remotion": "^4.0.372",
+    "vite": "^6.1.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@remotion/cli": "^4.0.372",
+    "@vitejs/plugin-react": "^4.3.4"
+  }
+}

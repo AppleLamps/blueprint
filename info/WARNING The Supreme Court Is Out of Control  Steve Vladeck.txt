@@ -1,0 +1,389 @@
+[Marc Elias]
+So the Supreme Court has this trick that it uses to try to sneak past you and me these big decisions. It's called the shadow docket. You know, those late night rulings that come without explanation, but have like really big consequences.
+
+Well, today's guest, Steve Vladeck, he's an expert on this shadow docket. He's a professor at Georgetown Law School, a CNN legal analyst, and he's one of the country's leading experts on constitutional law. He joins me to break down the Supreme Court term, how we can reform it, and how this shadow docket is helping the Supreme Court help Donald Trump.
+
+But before we get into it, subscribe to this channel to stay informed about how you can defend democracy. Steve Vladeck, welcome to Defending Democracy. Thanks, Mark.
+
+Great to be with you. We've got a lot to cover, but I want to start with your recent book and the thing that I think many people know you best about, which is the Supreme Court shadow docket. I described it in the intro as kind of like a trick that the US Supreme Court uses to late at night or at times when we are not all assembled awaiting decisions to issue these really big rulings that we don't really always know why they're ruling the way they are, but they seem to have enormous consequences.
+
+So can you maybe start by giving us your view? Is there a legitimate use to the shadow docket? What is it and why has it become something that now seems to, frankly, be the rule rather than the exception for how we get big cases?
+
+[Steve Vladeck]
+Yeah. Mark, it's a great question. I think there's no question that every appellate court needs some ability to provide emergency relief.
+
+There's always going to be cases where even if the lower court may have been right, or even if it's a close case, the equities just skew so heavily in favor of restoring the pre-lower court ruling status quo, whether it's putting a policy back into effect or putting a policy back on hold. And so the problem is not emergency relief as such. Indeed, right, for a very, very long time, all the way up into the 1980s, the Supreme Court had a pretty clever system for emergency relief.
+
+It just was one justice. And, you know, the justice could hold arguments in chambers. They could write opinions in chambers.
+
+You'd have a lot of process, but no one would ever confuse a single justice ruling for that of a full court. The problem that has arisen, and the reason why I think we've seen so much more action on the Supreme Court's emergency docket, is that the justices have really run away from what I would have thought were pretty conventional norms of how judicial decision-making is supposed to go in these cases, really starting about nine or ten years ago, where the court is now comfortable having these orders that produce massive effects that are not signed, and that are often, Mark, not explained at all, and just expecting everybody to deal with it. And it seems like it's the combination of not explaining yourself, acting in ways that, without those explanations, certainly look like they're more about partisan political preferences than adherence to neutral legal principles.
+
+And, Mark, as you know, increasingly treating even these unexplained orders as precedents that lower courts are not just bound to follow, but that the justices are yelling at lower courts for allegedly defying. And so it's not emergency relief in the abstract that's the problem. It's the way that the current Supreme Court has operationalized and expanded it, really even before last January, when President Trump came to office, but in spades as President Trump has come back to the court for this kind of relief so many times over the last 12 months.
+
+[Marc Elias]
+I know there is like the practical reality, but I want you to put on your law professor hat for a moment. The thing that has surprised me the most which is captured by part of what you were saying is the precedential effect. Like, these are not argued cases.
+
+These are not opinions. And so I have been, frankly, surprised. And it has come to the area that I practice in, which is voting in elections.
+
+There are like a couple of these shadow docket rulings that now just regularly get cited. And it's not even clear to me that there is a five justice court for what they are being cited for. I don't want to get too in the weeds for a general audience, but there are a handful of areas of the law where the Supreme Court doesn't have a choice.
+
+They have to take the case. It's direct appeal. One of them happens to be, again, in an area I litigate, which is three judge panels in voting, in some kinds of voting cases, constitutional voting cases.
+
+As a young lawyer, one of the I learned, one of the principles that I passed on to others is that if a court summarily affirms, if the Supreme Court summarily affirms or summarily reverses below, it only has the narrowest precedential value. Like, literally, it does not, you cannot extrapolate out from that anything other than the narrowest possible reason for that action. And yet the shadow docket doesn't seem to follow those same rules.
+
+What am I missing here?
+
+[Steve Vladeck]
+I don't think you're missing anything. I think it's the justices who are missing the hole that they're driving into the middle of the coherence of their view of precedent. And, you know, it's striking, Mark, when the shadow docket first became a real lightning rod back in the fall of 2021 with the Texas abortion case and a series of other COVID cases, Justice Alito gave this very visible speech at Notre Dame Law School where he was adamant that these orders are not precedents.
+
+You know, there's been this concerted effort by Justice Kavanaugh to rebrand the emergency docket as the interim docket on the theory that the court isn't resolving anything. You know, Mark, your election experience, I think, is sort of ground zero for just how not true that is, that, you know, these rulings are having these effects and effects, Mark, not just for the parties in those cases, but for other courts in other cases. You know, we tend to think as lawyers that much of our job is trying to explain to a court why the relevant precedent either is or is not distinguishable.
+
+And that's an enterprise that depends upon parsing what the court wrote in the relevant precedent by applying what the court wrote to the facts of these, you know, new cases. None of that's happening here. And so what we're seeing is the Supreme Court over and over again, you know, maybe thinking it's resolved something internally, Mark, but then expecting lower courts to understand what they've resolved.
+
+Just one really, really quick example. There was a case from last summer where President Trump had tried to downsize the Department of Education, and a federal district court blocked it, said you're going to, you know, what you're proposing is going to violate the law. And the Trump administration, through the Solicitor General, went to the Supreme Court, and Mark, they had three arguments for why they should get a stay.
+
+One was that the plaintiffs didn't have standing. One was that they had filed in the wrong court. And one was that on the merits, what they had done was perfectly lawful.
+
+And the Supreme Court grants a stay with no explanation. So we have no idea which of the arguments the justices endorsed. Were they endorsing it on the merits?
+
+Were they just saying this was the wrong court? Were they just saying these were the wrong plaintiffs? That kind of behavior, I think, is what has made the court's emergency rulings over the last, you know, 12 months especially, but really three or four years, so controversial, not the notion that the court is intervening in emergencies in the first place.
+
+[Marc Elias]
+I would quibble with just part of what you said, so I want to give you a chance to react. The Supreme Court, in that instance, isn't actually even given the opportunity to decide the merits. You said one of it is they could have decided the merits.
+
+All they'd be deciding is that there is a likelihood of success on the merits.
+
+[Steve Vladeck]
+That's a friendly amendment.
+
+[Marc Elias]
+Right? And so this is what I don't get. Like, like at the most, at the very most, it is that there is that they are likely to prevail, but it is not actually a ruling on the merits itself.
+
+And yet these are being treated like fully argued and briefed merits cases.
+
+[Steve Vladeck]
+And I think the problem is, is that, you know, I get a lot of grief, as I know you do, for the notion that like this, the, these procedural objections are just masking our substantive disagreements with the Supreme Court. And that's baloney. Like the reality is that the Supreme Court's credibility mark in this legitimacy comes not from the extent to which people like us and people who are watching us agree with the bottom line of the court's rulings.
+
+It comes from the perspective that the court is acting judiciously. And one of the ways that the court persuades us that it's acting judiciously is by espousing principles, maybe not principles we agree with, but principles that we agree are principles. And the problem that's happening over and over and over again in these emergency rulings is that the courts either mark not espousing any principles at all, and then expecting lower courts to follow something, or the court is moving so quickly and sort of writing so little that it's hard to understand what the analytical basis could be.
+
+I mean, take the, you know, all of these cases about whether President Trump can fire these officials without cause, where the Supreme Court just waves its hand and says, oh, there's a magical exception for the Federal Reserve. That might be good for, you know, the stability of our economy, but as a matter of, is the law coherent? And does the court look like it's actually acting from principles?
+
+The, you know, even these short explanations, Mark, are really doing a grave disservice, frankly, I think, to the court's ability to defend itself against charges that it's just voting the justice's partisan policy preferences. I think that that's exactly right.
+
+[Marc Elias]
+And, you know, for the record, some of the shadow docket rulings I'm concerned about that are in the voting place, you know, they're kind of good for the goose, good for the gander kind of rulings. Like, I mean, one of them, which seems to now have been codified into as if it's a fully decided issue, is a concurrence by Justice Kavanaugh, that was actually not joined by five members of the court that had to do with, you know, the application of what's called the Purcell Doctrine in redistricting cases. You know, how close is too close to an election to change lines?
+
+Like, sure, in that case, I didn't like it. But like, in other cases, maybe I will like that. Like, so I agree with you, there is a principled, I have a genuinely principled question or concern about this.
+
+I want to ask you sort of a broader question about the court. And I had on Dahlia Litwick, and I asked her this. And so I'm curious, your take.
+
+A lot of the concerns about the court are what I will call procedural, like what we've been talking about. It's like the way in which they do their job, how they choose the cases, how they rule in the shadow docket, kind of like what they're doing. Some of the objections are what I will call doctrinal, you know, originalism or not originalism, or textualism, whatever.
+
+And then there's a category that I'll just call structural. You know, like, there should be more justices, they should have term limits, they should have ethics rules, like, they're just like structural about the way the court is as a nine member court. What is your take on the problems with the court right now?
+
+I'll be right back with more of my conversation with Steve Laddick in a moment. But you know, every day, Donald Trump and the Republicans are working to undermine the Constitution, and the Supreme Court isn't doing us any favors. We're fighting hard on many different fronts, but it can be hard to keep track of all of them.
+
+Look, that's why I started Democracy Docket, because they have your back. It's dedicated to bringing democracy news and analysis right to your inbox. It's free daily and weekly newsletters keep you up to date on everything from the Supreme Court to voting rights, and much, much more.
+
+So subscribe for free at the link in the description below.
+
+[Steve Vladeck]
+It's funny you ask, I'm in the middle of writing a book about this, but I think that it all reduces, I think, Mark, to one core problem, which is a really astounding lack of accountability. And so if you look at the court historically, the court for much of Mark's first 200 years of existence was part of this regular robust interbranch dialogue with Congress, with the presidency about the scope of its powers, about even in some cases, the substance of its rulings, about its budget, about where the justices sat, about things like circuit riding. I mean, there were just so many big and little ways in which it was this ever ongoing push and pull between the democratically elected branches in the court.
+
+And that's just stopped. I mean, we've really seen progressively over the last really 40 years, Congress just take more and more of its hands off the court. Congress doesn't exert any control over the court's budget anymore.
+
+It just signs a check. Congress doesn't try to control the terms of the justices' retirements the way that it really did until 1937. Congress doesn't control the court's docket the way that it did, at least to a large degree, until 1988.
+
+And I think what we've seen happen, Mark, over the last 10 or 15 years is we're finally seeing the consequences of this complete departure of accountability where the court is no longer looking over its shoulder. I think it was obscured for a while because for most of your and my lives, the court had a really well-tended middle. You know, you had the Potter-Stewarts, the Lewis-Powells, the Sandra Day O'Connors, the Anthony Kennedys.
+
+Agree with them, disagree with them. They were moderating influences on the court's sort of willingness to do whatever it wanted. And, you know, the real shift since 2018 is the court doesn't have a middle anymore.
+
+It has a median, but that's not the same thing. So I actually think the court's behavior on emergency applications, Mark, and some of its more aggressive doctrinal moves are really just symptoms of this broader disease, which is that court doesn't think it has to account for anybody. It's not worried about Congress when justices are in the news for allegedly bad and unethical behavior, right?
+
+Unlike Abe Fortas, who resigned from the court in 1969 because they were worried about what Congress would do next. And so I think, you know, Justice Alito captured this perfectly in a quote he gave to the Wall Street Journal in 2023. He says, no provision in the Constitution gives Congress the power to regulate the Supreme Court, period.
+
+That's literally incorrect. Article 3, Section 2 gives Congress the power to make regulations to the Supreme Court's appellate docket. But, Mark, he's capturing the zeitgeist, right?
+
+He's capturing this sort of this broader idea that the court isn't currently accountable and doesn't think it ought to be accountable. And I actually think almost everything that's wrong with the court structurally flows from that shift, which is a relatively recent one.
+
+[Marc Elias]
+Why do you think that they have shifted in the power dynamic they have with Congress and have actually been less protective of their powers vis-a-vis the executive branch?
+
+[Steve Vladeck]
+The Congress part, I think, is relatively straightforward, which is that Congress was the moving party in that story and Congress stopped moving. That, you know, for better or for worse, and this actually predates the more recent, like, uber polarization of Congress, that even when Congress had, you know, liberal Republicans and conservative Democrats, Congress started to leave the court alone, Mark, I think, because Congress thought the court was acting responsibly and made the classic logical error that because you've been acting responsibly to this point, we can trust you to act responsibly in the future. I think that's part of it.
+
+[Marc Elias]
+It reminds me, by the way, of Justice Ginsburg's line in the voting rights case about the umbrella.
+
+[Steve Vladeck]
+The umbrella, right. You don't put away the umbrella because you're not going to wet in a rainstorm. The executive branch is trickier.
+
+I mean, I actually think that the court has done a remarkably subtle job of enabling President Trump over the last 12 months without actually ceding power, ceding its power to him. They've been perfectly happy to cede lower court power to the executive branch. For example, in the Casa case where they limited universal injunctions, they've been perfectly happy to cede legislative power to the executive branch.
+
+But actually, in the few moments where it's really mattered, the court has stood up to President Trump when it was about the court's power as such. And to me, the two most visible examples of that were last April in the alien enemies cases, where the court stepped in, as you know, like after midnight on a Friday night to block the removal of one group of non-citizens because they thought Trump was about to defy their own ruling from 12 days earlier. And then, Mark, during the oral argument in the birthright citizenship cases, where Justice Barrett almost like climbed off the bench to tackle the Solicitor General when she thought he was suggesting they wouldn't follow a Supreme Court precedent, and then backed down when he said, no, we just wouldn't follow a circuit precedent.
+
+So, you know, I think the court really is doing lots of things to aggrandize its power at the expense of everybody else. And I'm not sure that that's healthy for anybody in the long term, but I think it's, again, a symptom of the same disease.
+
+[Marc Elias]
+Yeah. I also think, by the way, it's a fool's game because, you know, at the point that they are seeding the power of lower courts, they are sowing the seeds. 100 percent.
+
+Like, you know, there's not a huge jump between disregarding and not paying attention to what district courts and court of appeals say and what the Supreme Court says.
+
+[Steve Vladeck]
+I mean, when you have Stephen Miller out there, right, saying that judges who rule against Trump are part of a judicial insurrection, you know, is the average person who actually thinks Stephen Miller is not full of crap going to understand the difference between a district judge and a Supreme Court justice who rules against Trump? I don't think so. And I think you're exactly right that they're not thinking about the long game here, that the more they're eroding credibility in the lower courts, what they're really doing is eroding the credibility of the whole of the federal court system at large.
+
+Part of why I think it's a real problem that the court hasn't stood up for the lower courts whose rulings have been defied. It's part of why I think it's a problem that the court hasn't, or at least Chief Justice Roberts hasn't spoken out more publicly, at least since last March, about the attacks on specific judges. I mean, there's this effort afoot to try to impeach two federal judges for rulings basically just that the Republicans disagree with.
+
+And so, you know, Mark, I think it's all of a piece, which is that the Supreme Court somehow thinks it's immune to all of these shifts and pressures and tensions. And I'm very worried that it might not be.
+
+[Marc Elias]
+So I'm going to date myself here a little bit. I graduated law school in 1993. And at that point, I had a pretty good sense of what it meant to be a conservative Supreme Court justice.
+
+It was something between, number one, originalism or textualism versus a more living constitution or modern interpretation. The second was sort of a strong bias towards federalism against, you know, protecting states or all these cases, you know, does the minimum wage apply to state governments? Can states do this?
+
+Can states do that? Like, sort of a very strong sort of federalism strain. I'm having a hard time trying to figure out whether there is any jurisprudential through line to the current majority or whether it is, you know, much more idiosyncratic to who is before them, what they think the outcome should be, who they think should win, who they think should lose.
+
+You know, I have a lot of people on who are very cynical about the Supreme Court. I am moderately cynical about the Supreme Court. But I'm curious, like, what you make of it.
+
+[Steve Vladeck]
+It's a deep question that I don't know that there's time enough to fully flesh out. But here are a couple of thoughts. I think the first is, you know, the court said they, not an it.
+
+And I think there's a real difference here between the two blocks that I think are often not the same on these issues, the Thomas Alito Gorsuch block on the one hand and the Roberts Kavanaugh Barrett block on the other. I think there's a real argument to be made that Thomas Alito and more often than not Gorsuch really are voting almost straight line for Republicans. And, you know, maybe they're coming up with reasons why they can do that.
+
+But like, you know, some of the cases where they're in dissent market, nobody else's are really striking on this point. I think it's a harder call for that sort of median block for the chief and Kavanaugh and Barrett, not because I think, and the irony is, I actually think we tend to think of Thomas as having these deeper commitments and these more consistent principles. I actually think it's the other way around.
+
+I think it's the sort of the moderation relative to Thomas Alito and Gorsuch of the chief and Kavanaugh and Barrett that's doing a lot of work here. And I think, you know, that's a very different median on the court than the O'Connor Kennedy Rehnquist median that you and I spent so much of the early parts of our careers, right, dealing with. The part of why it's different is because I don't think they have the same deep commitments to particular principles.
+
+I mean, O'Connor, whatever else I'm going to say about O'Connor, she was a devout states rights federalist, which, you know, led her to a lot of rulings I didn't agree with. But actually you could predict her votes in those cases, even when it was a blue state versus a red state. There's less predictability from these justices, which I think is part of the problem.
+
+And again, it circles back to why it's even more incumbent upon the court to try to assuage people like you and me, that there's real principle here. I guess the short answer is, I really do think that this court, at least, you know, six of the justices are still doing something that can reasonably be called law. You know, it may not be the law I want them to be doing.
+
+Their lines might not be where my lines are. But, you know, I think Trump's going to lose, for example, the Lisa Cook case. I think he's going to lose the birthright citizenship case.
+
+You know, I think the Taras case will be closer. That's not a court that's wholly in the bag for Trump. That is a court that is just, you know, more committed to at least this particular view of executive power than I'm comfortable with.
+
+But I still think that the alternative is worse.
+
+[Marc Elias]
+Yeah. I'm kind of with you on two of those three. I view the Lisa Cook case differently because there is not a print like there is not a principled distinction other than there are justices that don't want to see the stock market crater, the bond market crater.
+
+Like you tell me you've probably followed the merits arguments there more closely than I am. But but why why is the Federal Reserve of all agencies? I mean, after all, you know, the FTC was literally the agency that had that.
+
+[Steve Vladeck]
+So so I am not defending. So I think that for me, I think the court had already crossed that line. And so to me, the Lisa Cook case is not about the independence of the Fed.
+
+The Lisa Cook case is about whether the president can make up a cause. Oh, interesting. Right.
+
+That that to me, the court has already basically decided wrongly, but decided in the case. Right. And which is the FTC case as much as the FTC case.
+
+One, they're getting rid of Humber's executor. And two, they're carving out the Fed for, you know, as Justice Kagan put it, bespoke reasons where neither of those prongs make sense. Right.
+
+I'm with you 100 percent on that. But in a world in which you have mark any independent agencies, and I think there should be more than one, that independence would be pointless if cause meant whatever the president said. And if there was no opportunity on the part of the person who was fired to challenge the grounds on which she was putatively being removed.
+
+And so that's why I think the Lisa Cook case is, you know, the court actually doing law. And part of why I think the oral argument went the way it did on Wednesday, because at least for, again, that median block, the chief and Kavanaugh and Barrett, it would be nuts to have a legal principle. Maybe you and I don't buy that the Fed is uniquely independent and then not be able to enforce that principle even against a president they otherwise are generally willing to support.
+
+[Marc Elias]
+I got to ask you a couple of follow up questions around the premise of this that I actually am very interested in your your opinion on as a constitutional law professor. The first is, do you think there are any other federal agents, independent federal agencies are or should be? No, no, not should be.
+
+Do you think under the Supreme Court's current announcements like is it bespoke of one or there are other bespokes?
+
+[Steve Vladeck]
+I think it's a class of one until we find a second.
+
+[Marc Elias]
+And the reason I ask you is, you know, what do you do with an agency? And I'm obviously have a sort of a parochial interest in this. So I'm picking your brain here for free.
+
+You have the Federal Election Commission, which was designed.
+
+[Steve Vladeck]
+I had a hunch that's where this was going.
+
+[Marc Elias]
+Yeah, that that was designed by Congress. As people don't know, the Federal Election Commission regulates campaign finance, regulates spending of money in connection with federal elections. And it has a very specific history, which is that it's set up as a six member body where the agency cannot act without four votes.
+
+It actually doesn't even matter if there are fewer than six commissioners or if there are five commissioners still can't act without four votes. And and the reason for that is that no one party can have more than three members on the commission. So it was set up specifically to be a bipartisan body that could not act without some bipartisanship among the among the commissioners.
+
+I understand you may think there's an argument because you agree with the underlying premise that there should be independent agencies. But in the in the handing out of bespoke bespoke tokens, do you think that that's the kind of thing that conservatives would find persuasive or now like those kinds of agencies fall also?
+
+[Steve Vladeck]
+Nah. But I think the real sort of nail in the coffin for me was when the court just grouped together the National Labor Relations Board and the Merit Systems Protection Board in the Wilcox case. Because to me, Mark, the MSPB was actually a great sort of small example that it's not the same structure as the FEC, but it is a sort of analogous idea.
+
+[Marc Elias]
+It's very similar. Yeah.
+
+[Steve Vladeck]
+Right. Where the MSPB does not wield executive power. It exists for the sole purpose of resolving internal employment related complaints within the executive branch.
+
+There's no universe in which it would make any sense to have an agency with that function that was politically accountable to the president at will. And, you know, the lower courts actually thought you could distinguish the MSPB from the NLRB and the court just smushed them together. I don't buy the ground on which the Supreme Court claims that the Federal Reserve is bespoke.
+
+It isn't. The historical claim is false. The analytical claim does not actually distinguish it from, Mark, so many of these other agencies.
+
+But this is the justice. I mean, this is the court we have. They just sort of waved their hands at stuff.
+
+And I think that gets back to this larger problem, which is that this court, more than any court I am familiar with, just doesn't think it has to be especially persuasive. It just knows it has to, you know, write something that sounds superficially plausible. It's like the Fox News version of constitutional law.
+
+[Marc Elias]
+No, it's funny you say that, because I didn't agree with most of what Justice Scalia wrote, who is viewed as the forefather of conservative jurisprudence. But, you know, there were a couple of opinions that have always stuck with me. One is Doe versus Reed, which was a case out of Washington state, and it had to do with whether or not people have a right to sign petitions anonymously.
+
+And he held that they didn't. And in so doing, he was actually very much siding with the progressive side of the argument. The people who wanted to get access to these petitions and see the names were opposing an anti-gay marriage initiative.
+
+So, like, he was very principled, and it followed an earlier case that he had been in dissent in, out of Ohio, which dealt with anonymous leafleting. He had a jurisprudence that basically was like, you don't really have a right to anonymity in political activity. That, you know, the Federal Election Commission could require you to disclose your name.
+
+The state of Ohio can require you to disclose that you handed out these leaflets, and the state of Washington could turn over the name that you signed these petitions. He went so far in that opinion to say, you know, that there was no right to a private secret ballot originally in the country and that Congress could do away with that or states could do that. He was very rhetorical in the way he wrote, but there was a force to how he wrote.
+
+It was not kind of like a mile wide, an inch deep. And I agree with you. There is something about a lot of these more recent opinions that you're just kind of left feeling like you've eaten a meal and you're still hungry.
+
+[Steve Vladeck]
+I always think about this. I was teaching in my federal courts class the Bost case from last week, which I know you know well. I want to talk about, so go ahead.
+
+And so, right.
+
+[Marc Elias]
+Introduce us to the Bost case.
+
+[Steve Vladeck]
+So, Bost, Congressman Bost, and I think it was two or three other plaintiffs. From Illinois. Right.
+
+From Illinois. We're challenging Illinois' rule, allowing the counting of certain late arriving mail-in ballots, it seems to be going around. And the lower courts held that they didn't have Article III standing because they couldn't actually show that they were going to be injured, right, by the rule until we had an election.
+
+I mean, right, it's possible. Lower courts said that, you know, it's going to be a huge margin. You're not going to actually win or lose by that much.
+
+Indeed, Congressman Bost.
+
+[Marc Elias]
+And in fact, Bost has won historically by very high substantial margins.
+
+[Steve Vladeck]
+Where even if every single late arriving mail-in vote was for the other guy, and they were all illegal, he'd still win. Correct. So, in the normal case, you and I would think that that means he doesn't have standing.
+
+And the lower courts...
+
+[Marc Elias]
+In fact, my law firm submitted briefs at all levels of the court saying exactly that.
+
+[Steve Vladeck]
+And the Supreme Court said seven to two, although with an asterisk that we'll get into, that he does have standing. But, right, there's this narrower concurrence in the judgment by Justice Barrett, joined by Justice Kagan, that says he has standing because he himself has undertaken all of these additional expenses to bring this litigation, to prepare against the possibility that he'd lose an election based on these ballots. Like pocketbook injury mark, that's classical Article III standing.
+
+And what's really striking is with Barrett and Kagan there, the majority still went further and said, no, he doesn't even need pocketbook standing. All candidates have enough of an interest in fair elections and a fair election process that there's automatic candidate standing to challenge any rules governing the counting of votes. From the perspective of the court's Article III jurisprudence, that's totally insane.
+
+I wrote a post for my newsletter about how it's remarkable that candidates have special standing rules, but legislators don't. So until you win, you're special. And once you win, you don't.
+
+But the larger problem, Mark, is the opinion is so categorically unpersuasive. And it's a John Roberts opinion. And Roberts is usually like— He's the best writer on the court.
+
+Yeah. And so, you know, it's striking to me that these big cases we're getting over and over again are almost like they're writing to convince the choir and not actually writing to persuade anybody who isn't already on the team. And I think that's only doing more damage, right, to the notion that the court is doing something other than picking winners and losers.
+
+And I think that's part of how we're in the mess that we're in.
+
+[Marc Elias]
+There's one— First of all, the opinion is very right-coded. Like, yes, it in theory should be celebrated by everyone who represents candidates. And I represent a lot of candidates.
+
+But you read it, and it— Boy, it reads— There's a lot in there about election integrity. And like, it is not written for a bipartisan choir. Let's put it that way.
+
+[Steve Vladeck]
+No. And I go even further, which is to say what I thought was the most striking part of the chief's opinion is where he says this rule will actually reduce the need for post-election chaotic, you know, democracy-affecting litigation. It's exactly the opposite, Mark, right?
+
+Because now, you know— I can tell you for sure. Right. Like, the outlier candidate who was like the— not even one of the major party candidates who got 1 percent of the vote can now bring a lawsuit even though there's literally no chance it's going to change the result, Mark, which is going to raise all the stuff we saw in 2020 where just dependency of lawsuits creates public doubt in the integrity of elections that were run perfectly well.
+
+I mean, you know, whatever folks think about late-arriving mail-in ballots, and the court's going to decide that later this term, in your case. Late-arriving mail-in ballots, whether they count or not, that's not fraud, right? Registered voters who follow the rules at a time when the rules say as long as it's postmarked by election day it counts, whether their ballots should count or not, that is not like they are cheating.
+
+They are following the rules of the election. And so when you say that the majority opinion is right-coded, I mean, it had been gnawing at me, and I hadn't put it quite that way. But yes, it's right-coded, but it's also, again, like, why not just join the Barron opinion and save the hard questions for later?
+
+Like, it seems like just the court so often, Mark, these days is making its own life harder than it needs to be.
+
+[Marc Elias]
+So I want to get to that in a second about why they took the case. But before we do, I want to mention one other thing about Boston and get your opinion on it. I do find the Chief Justice oftentimes the most persuasive writer.
+
+He's a very good writer of opinions. He said something in this opinion that sort of goes to what you were just saying about the candidate who gets 1 percent of the vote. He goes to great lengths to say that, you know, the candidate gets 1 percent of the vote, or for that matter, the candidate gets 98 percent of the vote, right?
+
+People, that they suffer as much injury as anybody else. And then he says, and I'm paraphrasing, essentially a candidate who gets, and I think he says 10 percent of the vote, is better off with an election that is completely fair than the flipping of a coin. And I'm thinking, OK, that's just not true.
+
+Like, the flipping of the coin means the person who got 10 percent of the vote now has a 50-50 chance of winning. Like, I just, I don't understand why he felt the need to, you know, go that far. I mean, I guess the answer is he had to in order to rule that way.
+
+[Steve Vladeck]
+Yeah, but I mean, this, but that's the problem, right? I mean, I also, there's a, I mean, listen, there's a whole lot of democratic theory in this opinion that Justice Jackson's dissent skewers, and I, you know, I think she, I think she's 100 percent right on all of that, and about, like, who are elections for, right? They're not for the candidates, they're for the people.
+
+But there's a larger point, which is, Mark, there's a baked in assumption that legislatures aren't entitled to even a modicum of deference in deciding how elections will be resolved, right? There's actually a deep history of ties being broken by lots, right? Yeah, absolutely.
+
+[Marc Elias]
+And of, you know, I've been involved in elections that have gotten decided by random selection, whether it's lots or there are other methods other than drawing lots, but yeah, I guess.
+
+[Steve Vladeck]
+Because the legislature, in its wisdom, decided that at that point the fairest thing to do, right, was random, was arbitrary, right? Is that inherently pernicious? I don't, you know, again, this is back to what you put about right coding.
+
+I don't, I would not have thought, especially before the last 10 years, that, you know, having a sort of arbitrary but not, you know, not thumb on the scale procedure for resolving a tie was unfair or pernicious, right? I mean, this is where we are. And it's like, it's such a microcosm, Mark, of so much that's wrong with the court, where there was a narrower way to rule for Bost that actually would have, and it would have traditional, very traditional ground.
+
+And that would have had Kagan. And so you wouldn't have had yet one, yet another of these ideological splits on the court.
+
+[Marc Elias]
+So this is my question. And it comes up in Bost. It also comes up in the Calais case, which is the Louisiana redistricting case.
+
+And just to give people a little bit of background there, there was a lawsuit filed by black Louisianans saying that the federal law, the Federal Voting Rights Act requires the drawing of an additional black opportunity district. The legislature complied with that order and was ordered to do so. Then a group of white plaintiffs, or in their words, non-African American plaintiffs, brought a case challenging that as a racial gerrymander.
+
+The case goes up to the Supreme Court on a question of racial gerrymandering. And the Supreme Court, after hearing arguments, reorders the parties to re-argue, rebrief and argue the case on a different question, which is whether the Voting Rights Act itself is good law or is unconstitutional. In other words, rather than decide the question that the two parties agreed should be answered, they sort of forced the parties to address a different question, a question of whether the Voting Rights Act itself is constitutional.
+
+And the reason why I raise this, Steve, is that you mentioned that Bost deals with this question of later arriving ballots. The Supreme Court itself has already accepted a merits case involving that, where there's no standing question, right? So the underlying question here is going to get resolved in the Watson case that the Supreme Court will hear oral argument in this spring.
+
+So in both these two instances, and I realize they're procedurally very different, it feels like the Supreme Court sort of was like, oh, no, no, we really do want to just decide this issue that we could very easily never have to resolve in this term.
+
+[Steve Vladeck]
+I agree with everything you just said. The moral of the story is that this is a court that does not believe in judicial restraint in any of the ways that we would think of that term. And so Leah Lippman is fond of calling it the YOLO court, right?
+
+These are all examples of that. And what that misses, I mean, I'm writing a paper now about the justice's tendency to act like a district court, including to ignore what the district court's actually done in all these cases. What all of this misses, Mark, is that the court's real power historically has derived to a large degree from the sense that the court is not power hungry and that the court is not sort of chomping at the bit to move the law as quickly as possible in a particular direction.
+
+And because I'm in the only moderately cynical boat, I don't know, I don't think, I don't like to accuse the justices of acting in bad faith. I think they have just very different commitments than you or I do. But bad faith or good faith, there comes a point where the courts and the majorities refusal to acknowledge that all of this behavior has a cost and the cost is public faith in the court.
+
+That's the part that I just don't understand. You know, maybe Alito doesn't care. Maybe Thomas doesn't care.
+
+I don't get why the chief doesn't care. Or if he does care, I don't get why he doesn't see any of this. And to me, the question is like, how do people like you and I, when we're advocating and not just litigating, like how do we build this narrative that even moderate Republicans and folks who are like more inclined to agree with Chief Justice Roberts than you or me should still believe that the court should be trying to protect its power in the long term and not just doing whatever it wants in the short term. That to me is the hill we have not gotten over yet.
+
+[Marc Elias]
+When I was an associate and even when I first became a partner, there were sort of two maxims that I had in mind. The first is that if you were a practicing lawyer, you should let your briefs do the talking. You shouldn't talk to the media.
+
+The second was that if you wanted a career in academia, you should write as many things that nobody wants to read and never write anything that anyone would want to read. That it was actually a sign of a serious constitutional law professor that they only wrote things on very esoteric topics that went into law journals and law reviews that would gather dust. I can take responsibility for the first part of that question.
+
+So I want to ask you about the second. You have become a very, very prominent and well-known commentator on constitutional law in the Supreme Court. And I think it has done a real service to the American people because you have brought to them in an accessible way what's going on.
+
+Your book, Shadow Docket, is as useful to a law professor as it is to someone like me as a practicing lawyer, as it is to someone who's not a lawyer at all. And obviously, you write a newsletter. You're on CNN regularly.
+
+Talk to me about that. Am I living in an outdated, cynical, too cynical view of the academy? Or are you an outlier?
+
+Or is this the trend of where? And why did you take this direction?
+
+[Steve Vladeck]
+I think what it really reduces to, Mark, is I spend a lot of time thinking about impact. And I see my job as an academic, which is my day job, as doing sort of conventional academic work that actually makes things better. And academic work directed toward improving the institutions I care about and improving their health and their relationships with other institutions.
+
+And I guess, Mark, I've been doing this. I've been teaching for 21 years. I guess about a decade ago, it really started to seem to me that we academics were missing way too much of an opportunity to be part of the public conversation, and to educate the public, and to raise the level of public debate by just talking to ourselves.
+
+And so it's not that we should not do the classical scholarship. That's what gives us credibility as scholars, to say, we actually have the chops. We can show you the long forms of the work.
+
+But the short forms matter, too. And so I guess my view is that especially as President Trump, during his first term, and now President Trump during his second term, has made law such an inseparable part of our public policy conversations in this country, it's really incumbent upon the folks who have the capacity to help raise public understanding to raise public understanding. I don't see that as my first job, Mark, but I don't see it as my last one.
+
+And so I guess I see myself as someone who's trying to straddle both worlds and have conversations that are at once sufficiently rigorous that they're academic, but also sufficiently accessible that the public can participate in them, too. I don't know that that's something everyone can or should be doing. I think that some of it's unique to this moment we're in, in our popular culture.
+
+But I do think that it's all for the good that more and more people who aren't lawyers, or who are lawyers but maybe not practicing lawyers in these fields, are interested in these topics and are reading up and are educating themselves. Because, you know, the question, Mark, is not what you or I think, right? The question is what the public writ large thinks.
+
+And that's where I think academics have at least somewhat of an obligation to educate not just the students in their classrooms.
+
+[Marc Elias]
+I've had on a large number of law professors on my podcast, which may say a lot about me. I've asked each of them essentially the same set of questions that I want to ask you. And that is about your day job and about law students and how they view the world.
+
+I joked with Michael Klarman, who's a con law professor at Harvard, that I think the hazard pay award for an academic institution should go to law professors who have to teach fed courts. Because good luck finding a casebook that reflects anything that currently reflects the jurisprudence around fed courts. And also good luck identifying what the current jurisprudence is about fed court.
+
+It is very easy, I think, if you are a law student coming out of college now, and you're coming out of law school, to really have serious doubts about whether there is a there there, whether there is a coherent narrative. And I'm just curious, do you find that your law students are more cynical? We said that we are moderately cynical.
+
+Are they more cynical? Are they more resistant to the idea of there being a doctrinally neutral principle? Or are they actually have the more young, optimistic view of the law?
+
+How do you approach teaching in this era?
+
+[Steve Vladeck]
+I haven't aced that yet, so I'm still working on it. I have the luxury, Mark, of teaching at Georgetown, which I think is at the extreme end of the spectrum when it comes to how engaged our students are with what's going on in the world, with when it comes to how the politics of the moment are interacting with actually their legal education. So I think I'm skewed at least a bit, Mark, by the fact that my students are probably all the way at one end on that.
+
+But I think what I see is a combination of cynicism and energy. These are folks who have chosen to come to law school at this moment with whatever doubts they have about the power of law to do what we think law should be doing. And I see my job, both in the classroom and outside of it, as not being Pollyannish, as sort of acknowledging the difficulties of our moment, acknowledging the norms that have been trampled on, acknowledging, Mark, the very reality that we have a court that is very, I think, resistant to the things I care about and believe in, while still instilling in them this view that law matters, and that law matters not just as a stopgap, but, Mark, law matters as a sort of organizing principle of our society, and that this Supreme Court draws the line of law in a different place than I would doesn't mean it's not law, and doesn't mean that it's not due in law. And so it's not just that I want to empower them to be successful in whatever they want to do after law school. I want them to walk out of law school thinking that the rule of law is a thing we should fight for, and we still have it, even if it's under more pressure, and even if there are more alarming counter-examples than I would have ever thought possible in our democratic system.
+
+It's a challenge every day. I mean, Mark, you are right. It is a challenge in the federal courts class more, I think, than any other class in law school.
+
+My two big classes are fed courts and civil procedure. And the civil procedure, when it's first semester, what else? I get the energy part of it.
+
+The fed courts part is where I have to convince them that there's real law here, even if. And part of that, Mark, is something you know really well, which is one of the most important things you learn as a lawyer is you can sometimes win without winning. Jules Lobel calls it success without victory.
+
+I'd rather win, but at the very least, if you can fight for systemic principles, if you can persuade people who weren't inclined to agree with you that things like due process matter, that things like judicial independence matter, then I think there's still value in what we're doing, even if it's not as sort of immediate and direct as I would have preferred.

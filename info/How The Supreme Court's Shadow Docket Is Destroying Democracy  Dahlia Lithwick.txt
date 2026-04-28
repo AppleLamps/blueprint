@@ -1,0 +1,331 @@
+[Marc Elias]
+The Supreme Court is reshaping American law at a scale we have never before seen. It's issuing decisions that will define the limits of executive power for a generation, not to mention the trajectory of Trump's presidency. Today's guest, Dahlia Lithwick, has been covering the court longer than almost anyone in journalism.
+
+She's a senior editor at Slate and host of the award-winning podcast, Amicus. On today's show, she takes us behind the curtain of the Supreme Court. She breaks down the blockbuster cases still to come and answers the most important questions of our time.
+
+Is this court too powerful, too political, and too unaccountable? And if so, how do we fix it? But before we get into it, subscribe to this channel to stay informed about how you can defend democracy.
+
+Dahlia Lithwick, welcome to Defending Democracy.
+
+[Dahlia Lithwick]
+It's good to be with you.
+
+[Marc Elias]
+I got to ask you kind of your backstory, right? You grow up in Canada, you come to the United States for college, you go to Yale, and then you get your law degree in Stanford. I guess my first question is, have you decided the sensible thing is to actually give up on this whole America thing and go back to Canada?
+
+[Dahlia Lithwick]
+I got married in Toronto to a U.S. citizen. And the joke that my big brother made at my wedding, which feels, you know, that was 25 years ago in two months, which feels very too on the nose right now as he sort of like lifted his wine glass and said, everybody thinks that Dahlia's marrying Aaron for the green card. But some of us actually think he's marrying her for the exit to Canada.
+
+And at the time, like exactly, people laughed uncomfortably and didn't get it. And now it seems weirdly prophetic. I mean, I will just sort of soberly say this much.
+
+And I'm still a green card holder. I will say this, Mark, I think that sometimes it helps to be like on the inside and the outside at the same time. Because I think, and you've written about this as much as anybody, that there is a sort of American exceptionalist bias that leads people to reflexively say, this is the best, sanest, you know, only competent democracy in the world.
+
+And I think sometimes when you come from somewhere else, and I'm not comparing myself like to de Tocqueville or to, you know, Hannah Arendt, but I think that it sometimes helps to come from a place where you can see two things at once. And one of those things is that there are lots of democracies and they experiment with lots of things and they rise and fall. And some are better in some ways, and some are worse.
+
+And also to be able to say that the American notion that democracy begins and ends at the 50 states is not always right. And maybe the best concrete example I can give of that is I interviewed on my show, like a year ago, Rosalia Bella, who is a justice on the Canadian Supreme Court. And she had just stepped down and could speak freely.
+
+And she was just like, y'all are bonkers. Like if you think that lifetime tenure, no, you know, removal provisions, no ethics rule, she was really clear that no Supreme Court in the world is as unbounded as the Canadian Supreme Court. And people listened to that and they were like, well, but that's just Canada.
+
+But no, like that's how other democracies cab in their Supreme Court. So I think it's useful to me to be kind of in the world and not entirely of the world, because I think it helps ground you in the fact that American exceptionalism can blind you to some of the real flaws.
+
+[Marc Elias]
+I mean, you are one of the most looked to experts on the Supreme Court. You have the definitive podcast on the Supreme Court, which we're going to talk about. But I want to pick up on your observation.
+
+You know, there are kind of two critiques that people make of the Supreme Court. One is a structural one, you know, lifetime tenure, we should have term limits, we should have an ethics code, we should have, you know, a bigger expanded court, you know, they're sort of structural. The other critique that you hear is more personal, like it is the people we have on the Supreme Court, you know, it is maybe that they were selected in a process that is more partisan now, or they're more predictably ideological, or they're too conservative, and they're not in touch enough with the, you know, the lives of the country today, they don't respect precedent, right.
+
+But they're kind of like, they're about the individual justices. And I'm curious, given your a little bit of distance, but also as, like I said, the leading, the one of the leading observers of the Supreme Court, like, which is it?
+
+[Dahlia Lithwick]
+It's both. I think that they both exist flawlessly together, Mark, I think that it is structurally unsound in a million ways, to have a, you know, counter majoritarian branch of government that exists, and has always existed, right? I think we forget that, but for like a good 20 year run in there, you know, from Brown v.
+
+Board till, you know, name the date, the court has always existed as a mechanism to protect the wealthy and the privileged and the white and the powerful and right, we know this. And if you think about the sort of structural piece of it, and again, you and I both talk about this a lot, but it can't possibly be the case that we are now sitting with a Supreme Court that determines structurally, you know, what the law is, and it is, its members are selected by a minority majority president, right? A president who, for all the reasons we can talk about, does not reflect the majority will, right?
+
+As a deliberate anti-democratic measure. And then the anti-democratic Senate, right? The minority majority Senate, who, you know, so Montana has the same amount of senators as California, then seats and confirms those justices, right?
+
+So we now have a whole slew of justices, the majority of the justices who are seated by presidents who lost the popular vote, and then confirmed by senators who like in the exponentially huge numbers reflect the minority of the population. And then that court turns around and does Shelby County, right? And does so we have a perfect self-executing circle of anti-democratic structures that exist to perpetuate themselves.
+
+And then that court goes ahead and constricts a vote further. So I think, I don't know if I've explained that very well, but I think it is a machine that exists to perpetuate minority rule. And that's what we live in.
+
+That's the structural critique. Does that preclude the fact that we happen to have a six to three MAGA installed juggernaut that wants to destroy democracy? Why, no, it does not.
+
+I think those two things exist perfectly side by side, and I don't think I have to pick a lane. And I would say they're also mutually reinforcing, right? It's not an accident that the institution that exists to protect minority power in the face of actual democracy has seated in the face of democratic preferences, a six to three minoritarian court that is now working triple speed to protect minority prerogatives.
+
+So I think those things, actually, it's not a choose a lane. It's that the synchronicity between the personalities and the structure means that this is a way to lock in minority rule forever.
+
+[Marc Elias]
+One of the biggest frustrations I have, and I'm wondering if you have this in when you interview people on your podcast, because you interview a lot of lawyers on your podcast who have to do with the Supreme Court. And maybe you're going to tell me this is also a uniquely American trait. There is kind of like a, within the American exceptionalism, there is like the lawyer's Supreme Court exceptionalism.
+
+I was struck that during the Biden era, there was a Supreme Court reform commission or whatever that came to the conclusion that everything was basically fine. And these are people handpicked by Joe Biden's administration. And finding lawyers, by the way, lawyers left of center, I'm not talking about like Paul Clement, who's a very prominent and well-respected lawyer on the right.
+
+I'm talking about people on the left, like finding them who will criticize the Supreme Court and say this is fundamentally problematic is really hard. There's something about being a lawyer in the United States, I think, or maybe you'll tell me it's about being a Supreme Court litigator, or maybe you'll tell me it's about being in D.C. Maybe you'll tell me it's about the clerkships or the fact they went to law schools like you did at Stanford. I don't know what it is, but have you noticed this kind of like reticence by, frankly, the people who should know the best, right, the people who have the most upfront experience with the court?
+
+[Dahlia Lithwick]
+It was interesting. I had on my show last week, Sherrilyn Ifill was on the show, sort of legendary civil rights attorney who helmed the NAACP Legal Defense Fund for a long time. And she made the characterological point that you're making, which is the kinds of people who become lawyers then become the kinds of people who try to troubleshoot legal problems in legal ways.
+
+And that requires a little bit of the Patty Hearst syndrome that you're describing, which is like, oh, my God, I'm totally in love with my captors at the Supreme Court. There can be nothing more just or more perfect than the Supreme Court. And we can quibble about whether Anthony Kennedy is really a swing justice.
+
+But at the end of the day, this is the end. And then you begin to get into that if the only tool you have is an amicus brief, everything looks like it can be solved within the law. And so I think I think you're right.
+
+There is a kind of the kind of person who becomes a lawyer and who litigates, you know, present company accepted tends to just work within the guideposts and the structures of the institutions. And so they have to presume good faith, I think, in order to do the work. So that's part of it.
+
+I think it's just, you know, there's a reason none of us went to med school, right? Like we have a personality that really thrives on that kind of structure. I think you're also right to say, and this is, you know, we've had this conversation in terms of, you know, abuse of clerks, you know, by federal judges that never gets reported.
+
+We've had this conversation in terms of the ethics rules. I mean, I think there is. It's such a powerful system, Mark, that the people who work within it are always transactional, right?
+
+And so, you know, whether it's I'm a law professor and I need to get my my students the right clerkships because everything, you know, if I get three clerks placed as opposed to, you know, five clerks, I've had a bad year and the entire structure functions that way so that it's almost futile, right? Like this is how the Medici's did it and this is how we do it. And so I think there is both of those.
+
+I love that my answer to every one of your questions is both. But so far that's been. But I think both of those things are true.
+
+I think that there is, you know, I think you and I were on some of the same calls when the immunity decision came down and we were listening to people be like, OK, well, what is the outer perimeter of executive power? You know, what are like trying to parse this as though like now we can win cases if we can just, you know, close read the language of this case as though this is really a doctrinally serious proposition. And I think you and I, in some of those calls, were like, what the hell is even happening?
+
+Like, why are we trying to find lawyerly solutions to the most nihilist decision about executive power we've ever seen? So I think some of it is just the temperament of you know, we're not street fighters. We can't like, you know, Sudoku our way out of this.
+
+So we lawyer our way out of this. And this is what lawyers do, right? They accept the status quo as serious.
+
+And then I think that there is a lot of it that is and I know we're going to talk about the media a little bit, but is just very captured by power and influence. And that's not to slag people who want, you know, their kids to get a clerkship too. But I think that there is a lot of this is how power works and we work within it.
+
+And I think we see a lot, a lot, a lot of that happening. And so that, you know, blue ribbon commission that studied the court, I think that their presumption was we have to figure out a way to say that there can't be any structural changes. And lo and behold, they figured out a way to say it.
+
+[Marc Elias]
+I have to admit that for this term, I have been like laser focused on only three cases. So number one, there is the Clay case, which is the case out of Louisiana that has been, was argued last term, was re-argued again this term, and deals with essentially the fate of the Voting Rights Act and the ability to draw black opportunity districts in that case in Louisiana. Number two, I just argued a case in the Supreme Court, which was a campaign finance case.
+
+Obviously, since I argued it, I had to be laser focused on it. This deals with the coordinated party spending limits that the law has. And so I've been very focused on that.
+
+The third is a case that won't be heard until probably the spring out of Mississippi. That is also a voting case that my law firm and I are involved in, and this has to do with mailing ballots. So we'll have plenty of time when we get closer to the spring to talk about that case.
+
+I keep hearing about various, like seemingly an endless series of shadow docket, or maybe you'll tell me they're not shadow docket. Maybe they're main docket cases that deal with executive power. I don't know if those all grouped together or they're separate.
+
+I know there's the birthright citizenship case, which seems wacky because I don't know how any justice could possibly adopt to the positions. I don't know if they took the case because they just wanted to put it to rest, or if you think there's something else going on there. And then beyond that, I don't even know what the hell they're hearing.
+
+So how do you explain to someone what the Supreme Court is doing this term? I'll be right back with more of our conversation in a moment, but I founded Democracy Docket in 2020 to cover the fight for voting rights happening in courtrooms around the country. And as Republicans amp up attacks on free and fair elections, it's more important than ever to get access to the news that matters to you and our democracy.
+
+For just $10 a month, you'll get access to exclusive events, insights from me, and much, much more. Become a premium member now by clicking on the link in the description below.
+
+[Dahlia Lithwick]
+I don't want to suck up to the host too much, but I actually think the democracy cases in some sense are the flagship cases this term. So you're sort of watching the right cases insofar as you just noted. I think Calais is the whole shooting match.
+
+And I think that it's not an accident, Mark, that you just described like three stations of how we vote, who gets to vote, and who funds voting, right? I mean, this is the John Roberts, Reagan Justice Department project. And I flicked at it in the beginning, constricting the vote.
+
+And you've just named three flavors of doing away with campaign finance protections, doing away with the way we think about whatever's left of Section 2 of the Voting Rights Act and the way we go to the voting booth. So in some sense, this is a transformational year for what's left of the whole notion of a free and fair election. And one more turn on that, that I've been thinking about a lot in the last couple of weeks, is that the Roberts court really is focused on voting in a year that is going to determine the outcome, not just of the midterms, but the next election, right?
+
+Like this is the Roberts court doing exactly the thing I sort of tried to start with, which is determining outcomes of elections in ways that suppress majority will through artifice. Each of these is through artifice. So I think it's not an accident that this coming term, this kind of 2025 term will be dispositive on whether free and fair elections or what's left of the guardrails of free and fair elections continue.
+
+Look, I mean, it's absolutely true, transgender athletes. I think birthright citizenship is probably the most important case this year because it is bonkers in every single facet of it. This is an idea that, to use Professor Jack Balkin's phrase, was off the wall, was so outrageously outside the sphere of serious scholarship and thinking a year ago that when the court batted it away, right, on this question of the jurisdiction of district court judges to issue nationwide injunctions, that was already a bridge too far that we were even hearing that.
+
+That case, in the sort of panoply mark of the anti-immigration universe that we are now living in, is the court blessing an idea that is enshrined in the Reconstruction Amendments, reinforced by statute, court decision after court. This is not a close case. The fact that this is even at the court is unconscionable, but I think, you know, you and I are speaking in the same week that we're talking about denaturalization, you know, stripping citizenship from foreign-born citizens.
+
+We are in a world now where I think the court is going to be the arbiter of whether Donald Trump gets to decide who an American is, and, like, if that doesn't scare your face off, it should. So, you know, transgender athletes, like, there's a whole bunch of cases that are important, but I do think the democracy cases are going to be the one that leave a thumbprint on it. And then the only thing, because you asked about the sort of Humphreys executor and the, you know, cases about independent agencies and removals, I would just say this.
+
+I think that the story we are telling wrong about the Supreme Court is that we continue to watch the merits docket and not the shadow docket. And the real story, two years ago, I would have told you the real story is the corruption and the quid pro quos and, like, Harlan Crow and the fishing trips to Alaska and Sam Alito, right? That what we're watching, this choreographed performance of, you know, these are the 70 merits cases we're hearing this year, and we're missing all the good stuff about what the Koch brothers bought and paid for.
+
+Now, I would say, in addition to that story of Leonard Leo and who's in charge of the court and, you know, the unseen influences that, by the way, we in the press didn't cover, you know, we didn't cover that corruption docket at all. Now, I think there is a second valence that's almost more important, and that is the stuff happening on the shadow docket. That is these day after day, unsigned, one paragraph orders that are on cases where you have meticulous findings of fact in the district court, hundreds of pages of decisions and fact finding and district court judges doing their best to issue these emergency, you know, emergency decisions in the court with a stroke of the pen, except it's not even a stroke of the pen because it's written in invisible ink, right? Like, we don't know who, what the vote was. We don't know what the logic was.
+
+So I'm trying to urge people that if you are watching the sort of staged operatic, what is happening in front of that red curtain in those merits cases, you are missing the stuff that is dropping on Friday night when the court is, as they are in some of these cases, reversing a century of precedent without explaining why and saying, oh, when we say we're reversing Humphrey's executor, but we're hiving off the Fed because the Fed chair can't be removed because we all have a lot of money invested.
+
+Like, it's crazy. They have one job, which is to show their work. And the question you're asking me is about what are we going to see those last two weeks in June when they show their work?
+
+[Marc Elias]
+That's right. That is what I was asking.
+
+[Dahlia Lithwick]
+And what I want to really say is like, that's a framing that is like a super, like it was valid until it wasn't. And I think now the framing is watch what pops out at 10 o'clock on Friday night, right? Watch what pops out in an unsigned order.
+
+Watch what Justices Jackson and Kagan and Sotomayor are saying is happening on the shadow docket. And be very mindful of the fact that a court that is unable to produce reasoning or logic that is wiping away facts and saying like we're overturning precedent and not telling you why. And by the way, lower court judges are bound by that.
+
+They have to apply that as though it's the law. That's the story I want to tell this year. That the thing that we're not watching is being obscured by the stagecraft of, and now Justice Barrett is on a book tour.
+
+Look at this like speech she's giving. We are being head faked into not looking at where the action is. And that's my answer to you is we're not going to know it because these come up in emergency postures, Mark, but this is the meat of what the court is now producing.
+
+[Marc Elias]
+Yeah. I mean, the one example that I would offer, which my law firm was involved in, was the Texas redistricting case. So Texas redistricts, and they basically, for very complicated reasons that I won't bore people with, adopt a position in their redistricting that they are doing this because of race.
+
+They're using racial considerations to redraw their map that has been the subject of so much discussion and controversy. There was a three-judge panel appointed, and they move heaven and earth to like do a like a 10-day preliminary injunction hearing. At the time they were doing it, I said to everyone, they can call it a hearing, but like 10 days is like a trial.
+
+And at the end of it, there is a very long opinion, like a very long opinion written by a judge actually appointed by Donald Trump, and it strikes down the Texas map. I like to think I'm a realist and I'm not naive, but I was like, okay, this is subject to what we refer to as clear error review, right? Which means that the factual findings of the trial court, because like literally they heard testimony day after day, and the court's not going to find that that gets reversed on the shadow docket, like without like full briefing, like without like certain for sure they couldn't, they couldn't possibly do that.
+
+And they did. What it feels like, honestly, Dahlia, is that because they did it that way, there's not the outrage. Like if that, like if they had done that in June, there'd be like a big to-do about it.
+
+But like no one really talks about, no one really knows what to make of it. Like it's not, it's not fully, it wasn't fully considered. But the, but the result is, like the results is that Black and Latino voters in Texas are now going to be subjected to racially, racist maps.
+
+And like, I don't, I don't know how to quite reconcile myself with that.
+
+[Dahlia Lithwick]
+No. And I would add one more gloss to what you just said. If this happened in the last two weeks of June, when, you know, all of cable news was focused on it and everybody was writing like brilliant thumb-sucking think pieces, people would be outraged.
+
+But also, if the court had to explain that in a meaningful way, we would also be outraged when the court just does this kind of like, oh, I'm at like Caesar's Palace. Here's a cocktail napkin. Here's two sentences, you know, lipstick kiss.
+
+Best of luck, America. Like that's how the shadow docket operates. And so I think then you and I are in this incredible indefensible posture where we have to explain this thing came down in the middle of the night.
+
+We don't actually know who wrote it. We don't know who signed it. We don't quite know what the vote was.
+
+There's no meaningful, applicable logic that other similarly situated judges could apply. And then we have to do the thing that is their job, which is show their work. And then we have to do the additional thing, which is our actual job, which is to say, this is why it matters.
+
+And so in a weird way, I don't know if I'm explaining this exactly right, but there's this burden shift because they give us no explanation. There's no answer. There's no roadmap for how this works next time.
+
+There's just, we have no ability as a Supreme Court to reject findings of facts. We're going to invent new facts, right? That's the Kavanaugh stop, right?
+
+That also a shadow docket order, right? In a case that has massive implications now for how people are being stopped and searched. There's this bizarre, we have arrogated to ourself the power to reverse, as you say, hundreds of pages of factual findings that are painstakingly collected in a trial.
+
+And then we don't even have to explain it. We're just going to say like, eh. And then we're going to take the position that these aren't even really real cases because they're not coming down in the last two weeks of June, except, and this is really the case that more than any other reflects the problem, we're going to, in August, we get this concurring opinion in the NIH shadow docket case where a judge is scolded.
+
+Judge Young is scolded in a concurrence by Justice Gorsuch, signed off, but with Justice Kavanaugh, scolded for not applying a different invisible ink shadow docket order and really singled out as being a district judge who is lawless for not following something that apparently was controlling the case. So I think it's just really important to say, if we get too, too invested in the conventional court coverage, which is, it's October, here's the curtain raiser. Here are the 10 cases that matter.
+
+The day before the court case comes up, we'll give you a preview. Then we're going to explain the twos and fros and tugs of war that happened in the theater of oral argument. In the last two weeks of June, we will tell you those cases.
+
+You have missed the entire erosion of democracy that happened in a series of unsigned orders late at night. And there's a whole side argument about whether it should be called the shadow docket, right? Talk to Steve Vladek.
+
+There's a whole side argument about the court has always had an emergency docket, but can they really have this many quote unquote emergencies that are entirely a function of Donald Trump signing some incredibly insane executive order and then telling it administration to go ahead and execute it. And that now we're blowing up ships in the Caribbean. Now we're, you know, putting men on flights to Seacott prison and all of this stuff shows up at the court.
+
+And instead of saying, we're not taking your emergency because this is bonkers. Come, you know, go through the district court, go through the appeals court, brief this case and bring it to us. The court is like, tick, tick, tick.
+
+Trump wins almost every time. So they're totally complicit, not just in the distraction, the deflection of pay no attention to what's happening behind the curtain. But they're also complicit in, I think, overwhelmingly putting a thumb on the scale for this administration.
+
+And you can compare it to how the court on the shadow docket treated Biden's initiatives. But they're also complicit in trying to distract us from what they're really doing. And that's the point I want to really hit hard on, is that we have to be smarter than to be distracted.
+
+[Marc Elias]
+At the risk of dragging us back to the question of executive power. Let me ask you sort of a big framing question. Do you think Donald Trump will lose?
+
+Like, how far does executive power go with this court? Like, is there anything? We know that the president gets absolute immunity.
+
+It appears that he can fire whoever he wants for any reason. There are no independent agencies with the potential exception of the Fed. So I guess that's the limit of executive power.
+
+Like, does he get to, like, engage in war without a declaration of war? Does he get to deploy troops whenever he wants? Like, do you think the court cabins him on anything this term?
+
+[Dahlia Lithwick]
+Tariffs. It'll be tariffs. I mean, I think...
+
+Tariffs? That's where they draw the line? I mean, look, they, you know, dude, you know, baby needs new shoes.
+
+This is the same as the Fed, right? This is their own checkbooks. I mean, listen, tariffs, I think that didn't, you know, go well for the administration, which is why Trump has been, you know, panicking.
+
+And I should have added it to the list of that is a big deal of a case. And I think that, you know, that is a place where it looks as though the court is not on board for the way it was done. Again, I think that this is a court that has now staked out a maximalist unitary executive, you know, call it what you want to call it, a theory of presidential power for Trump.
+
+And you're right to say, like, we can pick off the exceptions, you know, but I think that we have seen time and time and time again, particularly on the shadow docket, that this is a view of the president's emergency powers. This is a view of immigration powers. This is a view of national security powers that is almost unbounded.
+
+Again, I think it's going to be really interesting if and when and I know you and I are, this is the existential worry, but if and when a Democrat takes the White House, we revert to the, oh, you know, that's a, you know, non-justiciable political question or that's, you know, all of the tricks that were used to circumscribe Biden's powers. I think we're going to find out that, you know, this is only works for Republican presidents. I think that for me, the reason your initial framing is really helpful is that, in a sense, I think the court is thinking about not just maximalist executive power, but this is a court, the one value it places over that is maximalist judicial power.
+
+And not, by the way, to every Article 3 judge, we've watched this court go after lower court judges, as I suggested, you know, Judge Young getting attacked for not applying a shadow docket order. This is a court that is most interested, I think, in maximizing its own power. And that's the sort of, that's the overarching theme is that the court has given itself the ability to say, you know, Trump has all these powers, but no more.
+
+But you know who has the power to allocate the Trump president's powers? Us. And that is the real meaning, I think, of the immunity decision.
+
+And it's the real sort of unifying theory of what the court is doing. It is systematically dismantling, you know, the administrative state. It is systematically, you know, dismantling agencies as we understand it.
+
+Congressional power is gone. It is giving power to the president. And in so doing, it is conferring unimaginable power upon itself.
+
+[Marc Elias]
+Yeah, I think that's right. I had Professor Nicholas Bowie from Harvard on, and he made a very similar point that, you know, and you don't oftentimes hear people defend Congress, but he was like, you know, people want to know why Congress is not standing up for itself. Look at what the court has done to Congress.
+
+Like every time Congress passes a law to try to like, you know, it said we want expert independent agencies. The Supreme Court's going to say no. It said we want campaign finance that like regulates money in our elections.
+
+The Supreme Court has said no. Like that in some sense, you know, what was supposed to be the most powerful branch of government, Congress has really been the victim of the court. And he says that this idea of judicial restraint is really about how they view states, not how they view Congress.
+
+That like they, the conservatives are more likely to give states power under federalism than they are to give Congress. And that has sort of distorted the constitutional system because Congress has essentially wound up like unable to do the stuff that when it tries to do it, it gets struck down.
+
+[Dahlia Lithwick]
+And that I think is such a nice tie-in to the conversation we had a minute ago about the ways in which the, you know, sort of the more the court gives itself power, the greater theoretically the obligation to explain why, right? Because it has one, in return for all that power, it has one obligation, which is to give us reasoned, principled arguments that we can apply as lawyers in future and on which, you know, state governments and legislators can rely to say, OK, we get it. These are the new rules for campaign finance.
+
+We get it. This is the new rule, right? You're saying, you know, Section 4 is an operative, but Section 2 is still a thing.
+
+We get it. We'll use Section 2. And when the court doesn't explain, when they don't give us a framework to go forward, what they're saying is, now we're just in this weird influence racket, right?
+
+This is like the mob. It's just like, we'll let you know when what you're doing is lawful. That's insane.
+
+[Marc Elias]
+Towards that end, I have one particular bone to pick with the court that I want to ask you about. So in Shelby County, and you mentioned this, so that's why I'm bringing it up. In Shelby County, the Supreme Court promised us that, yes, it was striking down Section 5, which had put certain states with history of discrimination under special requirements.
+
+It was striking that down because it wasn't fair to pick on some states and not others, essentially. But that we shouldn't worry. People like me, people like you, voters, Black voters, Brown voters, shouldn't worry because Section 2 still had nationwide application.
+
+And now here we are just a few years later, and we're looking at potentially the demise of Section 2. In the case I just argued before the Supreme Court, Congress had initially put in place a restriction on the total amount of money that individuals could give to all candidates and parties. So in addition to the amount of money you could give to an individual candidate, there was an overall, what was called an aggregate limit on how much a wealthy person could give to all candidates combined.
+
+And a few years ago, in a case called McCutcheon versus FEC, that got struck down. And part of the reason why that got struck down is they said, well, we don't need this because there are still limits on the money parties can spend in coordination with their candidates. So essentially, you don't have to worry that wealthy people will give all of this money to all of these different parties, and it'll get all bundled up together and all aggregated, and then just all go to the candidate because there's this ban or limit on that.
+
+And as we were sitting in the oral argument, and it came up, it came up in the briefing, came up in the argument. It's like, wait a second, but you said in this other opinion that the reason why that limit needed to go was because of this law that now everybody is treating as if it's just like its own thing. But you wouldn't have ruled the other way in that case, maybe.
+
+And so have you noticed this in other areas where the court seems to... I don't want to say it's a bait and switch, but it's like there's one explanation to do one thing, and then that thing comes up, and then they're ready to do that and do away with that thing.
+
+[Dahlia Lithwick]
+Right. No, it happens all the time. I mean, while you were talking, I was thinking of disclosure.
+
+It's okay because we're going to force everyone to disclose. And so it doesn't matter that we get rid of all these regulations because then we're going to have all this free-flowing disclosure, and we'll know where the money's coming from. And then boom, boom, boom, boom, boom.
+
+Disclosure is like a violation of my privacy. So we see this again and again and again. And it is part of the sort of systemic moving of goalposts.
+
+And I think bait and switch is the right word, which is we're going to give you this thing in lieu of the thing we're taking away. Oh, and we're taking away that thing too. And we see that a lot.
+
+And I think, if I have a knock on the way we cover the Supreme Court, and I'm not a person who loves to sort of trash the press because I know we're all doing the best I can. I'm sorry, that was an amazing Freudian slip. We are doing the best we can.
+
+I think that we cover cases as though, I used the word operatic before, as though it's like this jack-in-the-box, it appears, we explain it, and then we move on. And I wish that we could cover them sort of longitudinally over time, because I think that that's where you see, right, like five years later, same case, five years later, after that, same case. And we don't have a beat that covers jurisprudence sort of through time as opposed to in the moment.
+
+And so I just think that there's a whole lot of places where the court, you know, makes a promise. And then a few years after, I mean, maybe, you know, the best example I'm just thinking of right now is affirmative action, right? And the idea that it's okay, we're going to, you know, revisit this in X number of years.
+
+And then here's Brett Kavanaugh comes along and is like, okay, time is run out, you know, we're almost there. So I think that there is this ongoing kind of etch-a-sketch quality where you, you know, start again. And I think the American public isn't well enough sort of in conversation with how doctrine unfolds, not in the moment, but over time to say, but you just told us that two years ago.
+
+And so I think it's a failure of, I wish there were a beat, Mark, that does the thing you're describing, which is the, you know, where were we three years ago and what promise was made. We don't have that beat right now.
+
+[Marc Elias]
+So you mentioned the media and I do want to, before I let you go, ask you a few questions about this. So you are a senior editor at Slate magazine. You've been writing a column there since 1999.
+
+You're also, though, the leading, most prominent podcast host on the Supreme Court. And there's a lot of attention now on podcasts, in case you haven't noticed. And I'm curious, do you think of yourself as a, and obviously you've written books and all of that, but do you think of yourself as a writer, a journalist who has a podcast, or do you think yourself as a podcast host who also writes?
+
+[Dahlia Lithwick]
+That is a bourbon required question, Mark. I mean, I think this is a sort of a, I am now, as we all are struggling to, you know, I'm also an MSNBC contributor. I mean, you and I both are in the boat of, you know, being on multiple platforms and trying to figure out how to, you know, not disgrace yourself by doing so many things that you do them a disservice.
+
+So I think we are, all of us, all of us trying to figure out, you know, where to be impactful. And I, right now, I have to say, I think the podcast is taking up, you know, much of my time. And, you know, then we are writing up, either writing through podcasts, you know, and sort of developing ideas we had or writing up transcripts.
+
+But I find, and I know this is a knock you have on the way we are consuming news right now, that the sort of, you know, 40 second TikTokification of how people want to consume media doesn't serve the law very well at all. And, you know, I worry constantly about, I've sort of made the decision right or wrong to keep doing this kind of very bespoke, you know, 45 minute long form. You know, I think of it as like on being for the law.
+
+Like, it's just a very rarefied thing that in my lane makes meaning of what the court is doing. And with the understanding that every single minute that I'm doing that, I'm not doing the Epstein drop, I'm not doing, you know, that there's 50 legal stories a week. And so at some point, and it's probably just my age showing, I'm not trying to do as many things as I did in Trump 1.0, where I really felt like I was writing three times a week and dropping two emergency podcasts a week. I'm trying to be really respectful that there are so many people, you know this as well as I do, you are one of those people who are superb in their lane. And to figure out instead of sort of duplicating what other people are doing, like this is a thing that I do well. And so I'm writing a lot less.
+
+I'm probably doing less TV as well. And I'm trying to make the show be a thing that like every week people are like, aha.
+
+[Marc Elias]
+So we started with a discussion of the fact that you were born in Canada and had a little bit more distance. And I want to sort of end with the flip side of that, which is you could imagine a critic saying, Canada, the head of the parliament, like has all the power. Like they don't have the checks and balances.
+
+And you know, why does that system provide greater protections than the system in the United States, which does have these anti-majoritarian, you know, isn't anti-majoritarianism a virtue? And you know, I say that not believing that that is correct, but I can't articulate why. Like why don't, why doesn't a system like the Canadian system just lead to sort of, you know, a much sort of unitary executive, right?
+
+Like, you know, like a all-powerful prime minister who can, you know, if they have a majority in parliament, essentially do whatever they want. Like, what is it that Americans can learn about why these anti-majoritarian principles, which we've all grown up believing were necessary to prevent that kind of aggregation of power? You know, what can we learn?
+
+[Dahlia Lithwick]
+I have a sort of a small ball answer, and I think a meta answer, and I don't know if either will satisfy. I mean, I think the small ball answer is, and I don't purport to be any kind of expert on, you know, Canadian parliamentary ways, but I think that at the deepest sense, the United States is constructed on a promise that never materialized, right? And if you talk to anybody who thinks about, I'm thinking of, you know, Jill Lepore's recent book, but, you know, anybody who thinks about what the founders were building, Mark, we never came close to achieving it.
+
+And so what I said initially is what I would say now, which is I think a perfected system of checks and balances in the United States, if it were sort of to be unfurled in its platonic ideal, would be pretty damn great. I don't think it's ever existed. I think that for all the reasons we talked about, you know, the malapportioned Senate and the electoral college and the insane gerrymandering, we have had a system that tried to thwart actual checks and balances from the jump, right?
+
+I don't think that's in dispute. And so in some sense, we're comparing the not yet achieved, Sherrilyn Ifill would say, still achievable platonic ideal of American democracy, and then pitting it against like other democracies, which are also very imperfect. But I would say what I want Americans to think about, just to sort of like fight the hypo a little bit, is that like, what would it have looked like if we could get rid of the electoral college, which exists in order only to effectuate like racist, right, imperatives?
+
+What if we could get rid of the malapportioned Senate, which exists only to achieve what were at the time, fundamentally, right, racist and economic imperatives? What if we could actually and construct a Supreme Court that within that framework wasn't then distorting those majorities into minority prerogatives? Then I think we could have a really good conversation about democracy.
+
+And the sort of outsider part of me wants to say, the flaw is thinking we perfected it, right? And then picking a moment in history, whether it's like 1954, or Reagan, or, you know, for us as Democrats, we tend to say, this was, again, a really arresting moment last week on my show when Sherrilyn Ifill was like, I don't want to go back to 2010. Are you drunk?
+
+Like, that was an awful year. You know, yes, there were good things. But I think that the idea that we get hung up, we blame the originalists for stopping time, right, at the founding.
+
+We want to stop time at the Warren Court.
+
+[Marc Elias]
+Right.
+
+[Dahlia Lithwick]
+None of those were perfect.
+
+[Marc Elias]
+Reynolds v. Sims. I want to stop right after Reynolds v.
+
+Sims.
+
+[Dahlia Lithwick]
+And what I want to say is, like, we make the mistake of continuing to tell ourselves that we were perfect at some time. We were not. We could be.
+
+But it would require an immense amount of humility that is not in evidence. I just want to make the meta point for one quick second, because it's, I think of you often when I say this. I remember Trump 1.0, the kind of common locution was, oh, you know, they're violating norms. If we could reinforce norms, you know, it would be OK. Now we're in a moment where they're actually not violating norms, right? This administration is just breaking the law.
+
+And we have another flavor of American exceptionalism that thinks that the law is more robust than it is. And I want us to think really, really hard about this is not the fault line is not between norms and law. The fault line is between law and like Orban.
+
+And we keep falling into the trap. It's the trap that lets us say the Supreme Court is going to save us. And you and I have been in those rooms, too.
+
+The Supreme Court is not going to save us. Law is not going to save us. Law is not self-effectuating.
+
+It is not self-reinforcing. And I think that the thing that I am sitting in, and it both scares me and slightly inspires me, is finally realizing, and this, I guess, gets back to the Patty Hearst of it all, that the law is really as fragile as norms are. And I don't think I knew that until like this week.
+
+Now I'm realizing that the American exceptionalism that says, but the Constitution doesn't allow that, is eating us alive. And we have to, every one of us needs to kind of get out from under this structure that is, you know, the law is what the court tells us it is. The law is not what the court tells us it is.
+
+We know what the law is. We know what we want the law to be. But it has to be a kind of version of popular constitutionalism that is the opposite of, here is the structure and it is perfect.
+
+It is like, here's the structure. It has never been perfect, but more urgently, if we don't enforce it, every one of us, I know you write this all the time, if we don't have skin in the game, it's vapors.
