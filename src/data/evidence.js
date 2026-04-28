@@ -10,6 +10,10 @@
  * @property {string} label
  * @property {string} text
  *
+ * @typedef {Object} Directive
+ * @property {string} title
+ * @property {string} text
+ *
  * @typedef {Object} ComparisonRow
  * @property {string} issue
  * @property {string} traditional
@@ -23,6 +27,7 @@
  * @property {string} title
  * @property {string} kicker
  * @property {string} thesis
+ * @property {string} strategicImperative
  * @property {string} move
  * @property {string} publicFrame
  * @property {string} actualEffect
@@ -34,6 +39,7 @@
  * @property {string} pullQuote
  * @property {{theySay: string, patternShows: string}} counterFrame
  * @property {string} color
+ * @property {Directive[]} operationalDirectives
  * @property {ComparisonRow[]} comparisonRows
  * @property {Signal[]} signals
  * @property {Claim[]} claims
@@ -48,13 +54,15 @@ export const chapters = [
     title: "Congressional Supremacy",
     kicker: "Move I",
     thesis:
-      "This is the opening move: redefine the Constitution so Congress becomes the command center and the elected executive becomes something closer to an administrative subordinate.",
+      "The first move is to turn Congress into the command center and make the presidency answer to a legislative majority instead of the whole constitutional structure.",
+    strategicImperative:
+      "The case frames the modern presidency as the gateway to personal rule: spending discretion, tariff power, domestic military authority, and control over personnel all become threats that must be brought under legislative command.",
     move:
       "Shift the center of constitutional gravity toward Congress and away from independent executive judgment.",
     publicFrame:
-      "They call it restoring democratic accountability and preventing presidential abuse.",
+      "They call it restoring checks and balances, protecting the power of the purse, and stopping presidential abuse.",
     actualEffect:
-      "It narrows the executive into a compliance office while congressional majorities set the terms of action.",
+      "It narrows the executive into a compliance office while congressional majorities set the terms of spending, trade, enforcement, and crisis response.",
     whyMatters:
       "Checks and balances fail when one branch gets to define the job description of the others.",
     howFits:
@@ -63,7 +71,7 @@ export const chapters = [
       "The danger is not oversight. It is the claim that the familiar three-branch balance is a myth, paired with a program to strip executive discretion over war, tariffs, spending, and faithful execution.",
     consequence: "Checks weakened",
     articleExcerpt:
-      "If the branches are no longer co-equal, every later move becomes easier to justify: Congress commands, the President complies, and bureaucracy becomes the enforcement layer.",
+      "This is the constitutional setup move. Once executive independence is treated as the problem, every later power transfer can be sold as democratic repair.",
     pullQuote:
       "The first move is always conceptual: change what the Constitution is said to mean, then change what power is allowed to do.",
     counterFrame: {
@@ -72,6 +80,20 @@ export const chapters = [
         "The reform does not stop at accountability. It recasts executive independence as a defect to be corrected.",
     },
     color: "#9f2f2f",
+    operationalDirectives: [
+      {
+        title: "Impoundment reform",
+        text: "Force the executive to spend as Congress directs, removing a major lever presidents use to shape policy after appropriations pass.",
+      },
+      {
+        title: "Tariff reclamation",
+        text: "Pull trade and tariff authority back into Congress so economic pressure tools are legislative weapons, not executive bargaining power.",
+      },
+      {
+        title: "Domestic military restrictions",
+        text: "Narrow domestic deployment authority so the presidency cannot use emergency language to move force inside the country.",
+      },
+    ],
     comparisonRows: [
       {
         issue: "National security",
@@ -101,11 +123,11 @@ export const chapters = [
           "The ordinary civic shorthand for branch equality is challenged before the argument for congressional primacy begins.",
       },
       {
-        id: "raskin-tariffs-budget",
-        speaker: "Rep. Jamie Raskin",
-        quote: "Only Congress could control the budgets and impose taxes and tariffs.",
+        id: "elias-props",
+        speaker: "Marc Elias",
+        quote: "Speaker Johnson and Leader Thune are mere props",
         interpretation:
-          "The point is not a narrow budget dispute. It is a claim that economic leverage should move back under congressional command.",
+          "The presidency is framed as having swallowed Congress, which creates the rhetorical opening for congressional supremacy.",
       },
     ],
     claims: [
@@ -134,6 +156,8 @@ export const chapters = [
     kicker: "Move II",
     thesis:
       "Once the executive is weakened, the Court becomes the next obstacle. The plan is to regulate it, shame it, strip it, expand it, or make its rulings easier to defy.",
+    strategicImperative:
+      "The goal is a structural flip: weaken the Court's ability to stop federal legislation while portraying state-level election fights as the real constitutional emergency.",
     move:
       "Turn judicial independence into a political problem and judicial reform into a tool for pressure.",
     publicFrame:
@@ -157,6 +181,24 @@ export const chapters = [
         "The pressure always intensifies when the Court blocks progressive outcomes, which makes reform look like outcome control.",
     },
     color: "#1d3557",
+    operationalDirectives: [
+      {
+        title: "Court expansion",
+        text: "Dilute a hostile majority by changing the size of the institution instead of waiting for ordinary turnover.",
+      },
+      {
+        title: "Mandatory ethics code",
+        text: "Use legitimacy and recusal fights to keep pressure on disfavored justices and decisions.",
+      },
+      {
+        title: "Term limits",
+        text: "Convert lifetime tenure into a rotating political calendar, making the Court easier to plan around.",
+      },
+      {
+        title: "Jurisdiction stripping",
+        text: "Use congressional control over federal jurisdiction to move key questions out of judicial reach.",
+      },
+    ],
     comparisonRows: [
       {
         issue: "Ethics code",
@@ -179,11 +221,11 @@ export const chapters = [
     ],
     signals: [
       {
-        id: "elias-court-menu",
-        speaker: "Marc Elias",
-        quote: "term limits... an ethics code... a bigger expanded court",
+        id: "lithwick-unbounded",
+        speaker: "Dahlia Lithwick",
+        quote: "No Supreme Court in the world is as unbounded",
         interpretation:
-          "The reform menu is not cosmetic. It is a menu of pressure points over the institution that can still say no.",
+          "The Court is framed as uniquely dangerous, creating permission for unusually aggressive pressure tactics.",
       },
       {
         id: "bowie-jurisdiction",
@@ -201,8 +243,8 @@ export const chapters = [
       },
       {
         id: "court-jurisdiction",
-        label: "Jurisdiction stripping",
-        text: "Congressional stripping of jurisdiction is presented as a legitimate historical tool.",
+        label: "Review contained",
+        text: "The Court keeps its name, but the most threatening disputes can be routed away from it.",
       },
       {
         id: "court-purge-frame",
@@ -219,6 +261,8 @@ export const chapters = [
     kicker: "Move III",
     thesis:
       "The third move is control over election rules: voter ID, citizenship checks, deadlines, voting machines, voter rolls, and the Electoral College.",
+    strategicImperative:
+      "State election authority is portrayed as a suppression machine, which makes federal control sound like rescue rather than takeover.",
     move:
       "Move election administration away from state control and into national legal, bureaucratic, and litigation pressure.",
     publicFrame:
@@ -242,6 +286,24 @@ export const chapters = [
         "The same reforms weaken state safeguards, extend litigation over outcomes, and redirect presidential selection away from the existing structure.",
     },
     color: "#b7791f",
+    operationalDirectives: [
+      {
+        title: "Federal registration floor",
+        text: "Use national standards to make state registration rules answer to federal civil-rights enforcement.",
+      },
+      {
+        title: "Block citizenship barriers",
+        text: "Treat documentary proof requirements as tools that burden students, married women, and other targeted groups.",
+      },
+      {
+        title: "Defend birthright citizenship",
+        text: "Keep citizenship status from becoming a backdoor fight over who belongs in the electorate.",
+      },
+      {
+        title: "Protect urban power centers",
+        text: "Frame federal or state pressure on major cities as intimidation of the voters who decide national power.",
+      },
+    ],
     comparisonRows: [
       {
         issue: "Voter ID",
@@ -264,25 +326,25 @@ export const chapters = [
     ],
     signals: [
       {
+        id: "elias-save-act",
+        speaker: "Marc Elias",
+        quote: "The SAVE Act is a voter suppression bill",
+        interpretation:
+          "Citizenship verification is not treated as a neutral safeguard; it is framed as the front edge of exclusion.",
+      },
+      {
         id: "raskin-electoral-accident",
         speaker: "Rep. Jamie Raskin",
         quote: "The Electoral College is just an accident waiting to happen",
         interpretation:
           "The Electoral College is framed as the problem so bypassing it can be sold as the solution.",
       },
-      {
-        id: "blumenthal-id",
-        speaker: "Sen. Richard Blumenthal",
-        quote: "photo ID laws... proof of citizenship registration laws",
-        interpretation:
-          "ID and citizenship rules sit at the center of the fight because they decide the boundary of the electorate.",
-      },
     ],
     claims: [
       {
-        id: "ballot-npv",
-        label: "Compact route",
-        text: "The National Popular Vote strategy is presented as a route from the Electoral College to popular vote selection.",
+        id: "ballot-federal-floor",
+        label: "Federal floor",
+        text: "The national standard sounds neutral, but it shifts election-rule authority upward.",
       },
       {
         id: "ballot-id",
@@ -290,9 +352,9 @@ export const chapters = [
         text: "Voter ID and citizenship checks are recast as suppression, making federal override easier to defend.",
       },
       {
-        id: "ballot-late-mandates",
-        label: "Deadline erosion",
-        text: "Deadline certainty gives way to a broader counting perimeter that can be litigated after Election Day.",
+        id: "ballot-urban-targets",
+        label: "City pressure",
+        text: "Major cities become the emotional center of the argument because they carry electoral power.",
       },
     ],
   },
@@ -304,10 +366,12 @@ export const chapters = [
     kicker: "Move IV",
     thesis:
       "The fourth move is outside pressure: nonprofits, litigators, academics, media allies, and protest networks pushing institutions until they bend.",
+    strategicImperative:
+      "Institutional change needs force from outside the institutions. The 3.5 percent idea turns a focused minority into the mandate for constitutional redesign.",
     move:
       "Build a permanent pressure infrastructure that can force institutional change without winning every formal contest.",
     publicFrame:
-      "They call it civic engagement, democracy defense, and people-powered resistance.",
+      "They call it civic courage, democracy defense, and people-powered resistance.",
     actualEffect:
       "Institutions face coordinated pressure from litigation, media narratives, academic theories, and street mobilization.",
     whyMatters:
@@ -327,6 +391,20 @@ export const chapters = [
         "The mobilization is paired with institutional redesign, litigation pressure, and demands for permanent power shifts.",
     },
     color: "#4f5d2f",
+    operationalDirectives: [
+      {
+        title: "Litigation networks",
+        text: "Use aligned nonprofits and legal groups to challenge every opposing action and keep the institutions under pressure.",
+      },
+      {
+        title: "Independent media",
+        text: "Move around legacy gatekeepers through direct channels that repeat the same emergency frame to a committed audience.",
+      },
+      {
+        title: "Long fight discipline",
+        text: "Treat the project as generational so losses become proof of the need to continue, not reasons to stop.",
+      },
+    ],
     comparisonRows: [
       {
         issue: "Mass pressure",
@@ -349,25 +427,25 @@ export const chapters = [
     ],
     signals: [
       {
+        id: "ben-ghiat-long-fight",
+        speaker: "Ruth Ben-Ghiat",
+        quote: "We are in for a long fight",
+        interpretation:
+          "The project is framed as a durable movement, not a single election cycle or policy dispute.",
+      },
+      {
         id: "raskin-popular-upsurge",
         speaker: "Rep. Jamie Raskin",
         quote: "a popular upsurge",
         interpretation:
           "The phrase captures the role mass pressure plays in forcing institutional change.",
       },
-      {
-        id: "raskin-everything-attack",
-        speaker: "Rep. Jamie Raskin",
-        quote: "everything is under attack",
-        interpretation:
-          "Emergency language is the fuel. If everything is under attack, every pressure tactic can be sold as defense.",
-      },
     ],
     claims: [
       {
         id: "mobilize-upsurge",
         label: "Popular upsurge",
-        text: "A popular upsurge is framed as necessary amid institutional emergency language.",
+        text: "A focused minority is treated as enough to create a mandate for institutional change.",
       },
       {
         id: "mobilize-legal-sector",
@@ -389,6 +467,8 @@ export const chapters = [
     kicker: "Move V",
     thesis:
       "The final move is justice-system leverage: protect aligned career power, expose opponents, and keep investigations alive as political weapons.",
+    strategicImperative:
+      "The justice system becomes the plan's shield and sword: shield aligned officials from elected control, then use disclosure, investigations, and ethics language to keep opponents exposed.",
     move:
       "Use the justice system as a pressure instrument while insulating aligned bureaucratic power from elected control.",
     publicFrame:
@@ -412,6 +492,24 @@ export const chapters = [
         "The guardrail argument becomes selective when it protects aligned officials while demanding exposure and pressure against opponents.",
     },
     color: "#633974",
+    operationalDirectives: [
+      {
+        title: "Career official protections",
+        text: "Make prosecutors, agents, inspectors, and civil servants harder for elected leadership to remove or redirect.",
+      },
+      {
+        title: "Special counsel independence",
+        text: "Keep politically explosive investigations alive by insulating them from presidential command.",
+      },
+      {
+        title: "Ethics-first resistance",
+        text: "Elevate resignations, refusals, and internal dissent as proof that professional judgment outranks political orders.",
+      },
+      {
+        title: "Data and disclosure fights",
+        text: "Turn voter data, investigative files, and oversight demands into permanent leverage contests.",
+      },
+    ],
     comparisonRows: [
       {
         issue: "Special counsel files",
@@ -434,11 +532,11 @@ export const chapters = [
     ],
     signals: [
       {
-        id: "raskin-volume-two",
-        speaker: "Rep. Jamie Raskin",
-        quote: "time to release volume two",
+        id: "prosecutors-obedience",
+        speaker: "New York prosecutors",
+        quote: "obedience supersedes all else",
         interpretation:
-          "The Smith material becomes a political instrument, not merely a closed prosecutorial record.",
+          "The conflict is framed as law versus loyalty, which makes career resistance sound like the only ethical option.",
       },
       {
         id: "elias-smith-file",
@@ -450,9 +548,9 @@ export const chapters = [
     ],
     claims: [
       {
-        id: "doj-smith-release",
-        label: "Smith disclosure",
-        text: "The Smith materials are treated as weapons for public pressure after the prosecution fight.",
+        id: "doj-career-shield",
+        label: "Bureaucratic shield",
+        text: "Guardrails can become shields when they protect aligned officials from elected accountability.",
       },
       {
         id: "doj-weaponization",
@@ -460,15 +558,48 @@ export const chapters = [
         text: "Anti-weaponization language becomes a way to define which uses of DOJ power are legitimate.",
       },
       {
-        id: "doj-career-shield",
-        label: "Bureaucratic shield",
-        text: "Guardrails can become shields when they protect aligned officials from elected accountability.",
+        id: "doj-leverage",
+        label: "Enforcement leverage",
+        text: "Investigations, data demands, resignations, and disclosures become tools for permanent pressure.",
       },
     ],
   },
 ];
 
 export const chapterMap = Object.fromEntries(chapters.map((chapter) => [chapter.id, chapter]));
+
+export const strategicOverview = {
+  title: "A five-part machine",
+  body: [
+    "The case is not that every proposal is identical. It is that they move in the same direction: away from state-based and executive-heavy limits, toward centralized power backed by mobilization and insulated enforcement.",
+    "The legal theory underneath it is a structural flip: weaken the Court's ability to stop federal legislation while strengthening federal power over state election rules.",
+  ],
+  machine: [
+    "Mobilization creates the mandate.",
+    "Congress claims the authority.",
+    "Court pressure clears the path.",
+    "Election rules protect the majority.",
+    "Justice leverage preserves the result.",
+  ],
+};
+
+export const pressureMarkers = [
+  {
+    label: "The theory",
+    title: "Horizontal review versus vertical review",
+    text: "The Court is accused of policing Congress too aggressively while failing to police state election rules aggressively enough.",
+  },
+  {
+    label: "The institutional target",
+    title: "Turn independence into obstruction",
+    text: "Executive discretion, judicial review, state election authority, and prosecutorial hierarchy are reframed as threats to democracy.",
+  },
+  {
+    label: "The durability play",
+    title: "Protect the new center",
+    text: "Once authority moves upward, mobilization and enforcement power make the new arrangement harder to reverse.",
+  },
+];
 
 export const patternSteps = [
   {
@@ -531,12 +662,103 @@ export const dangerCards = [
   },
 ];
 
-export const counterFrames = chapters.map((chapter) => ({
-  id: chapter.id,
-  title: chapter.shortLabel,
-  color: chapter.color,
-  ...chapter.counterFrame,
-}));
+export const counterFrames = [
+  {
+    id: "voter-id",
+    title: "Voter ID",
+    color: "#b7791f",
+    theySay: "Voter ID prevents fraud.",
+    patternShows:
+      "The fight is used to treat state eligibility rules as suppression and invite federal override.",
+  },
+  {
+    id: "save-act",
+    title: "SAVE Act",
+    color: "#b7791f",
+    theySay: "Proof of citizenship protects elections.",
+    patternShows:
+      "The birth-certificate barrier becomes a national fight over who is allowed into the electorate.",
+  },
+  {
+    id: "personnel",
+    title: "Personnel",
+    color: "#633974",
+    theySay: "Personnel is policy.",
+    patternShows:
+      "Personnel becomes power when career actors can resist elected leadership while still shaping outcomes.",
+  },
+  {
+    id: "shadow-orders",
+    title: "Emergency orders",
+    color: "#1d3557",
+    theySay: "Emergency orders are procedural.",
+    patternShows:
+      "Emergency procedure becomes a legitimacy fight whenever the Court blocks the preferred result.",
+  },
+  {
+    id: "congress",
+    title: "Congress",
+    color: "#9f2f2f",
+    theySay: "This is just restoring Congress.",
+    patternShows:
+      "The restoration frame becomes a path to making the presidency subordinate to legislative command.",
+  },
+];
+
+export const actorMap = [
+  {
+    name: "Marc Elias / Democracy Docket",
+    role: "Litigation and election-rule strategy",
+    text: "Frames voter ID, citizenship checks, court pressure, and federal voting standards as connected democracy-defense fights.",
+  },
+  {
+    name: "Nikolas Bowie",
+    role: "Constitutional theory",
+    text: "Supplies the structural argument for congressional supremacy and for limiting the Court's ability to obstruct federal legislation.",
+  },
+  {
+    name: "Dahlia Lithwick",
+    role: "Court legitimacy pressure",
+    text: "Turns the Court's authority into the public problem and helps make reform feel like rescue rather than control.",
+  },
+  {
+    name: "Ruth Ben-Ghiat",
+    role: "Movement discipline",
+    text: "Places the fight in a long-game framework where sustained civic pressure becomes the required response.",
+  },
+  {
+    name: "Democracy Forward",
+    role: "Legal pressure network",
+    text: "Represents the litigation model: challenge, delay, publicize, and keep institutional pressure active.",
+  },
+];
+
+export const sharpestDetails = [
+  {
+    label: "Zero-sum elections",
+    text: "The election fight is openly treated as winner-take-all politics, which explains why control of rules matters so much.",
+  },
+  {
+    label: "Congress as prop",
+    text: "The argument that Congress has become a prop creates the opening for a much more aggressive legislative supremacy model.",
+  },
+  {
+    label: "Unbounded Court",
+    text: "Calling the Court uniquely unbounded prepares the audience to accept expansion, term limits, ethics pressure, or jurisdiction limits.",
+  },
+  {
+    label: "Birth-certificate barrier",
+    text: "The fight over proof of citizenship lets the plan tie voting rules to citizenship, identity, and federal enforcement.",
+  },
+  {
+    label: "Obedience versus ethics",
+    text: "Justice-system resistance is framed as professional ethics, making career power look more legitimate than elected control.",
+  },
+  {
+    label: "The long fight",
+    text: "The plan is built to survive losses by treating every defeat as more proof that the institutions must be remade.",
+  },
+];
 
 export const chapterTakeaways = [
   "The plan starts by redefining power.",

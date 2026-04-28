@@ -11,8 +11,9 @@ export function RemotionSection({ activeId }) {
         <p className="eyebrow">Watch the case</p>
         <h2>A quick visual map of the sequence</h2>
         <p>
-          The video follows the same chain as the page: redefine power, pressure the Court, control
-          election rules, mobilize outside force, and use enforcement leverage.
+          The video follows the same machine as the page: a new theory of power, pressure on the
+          institutions that can say no, national control over voting rules, movement force, and
+          enforcement leverage.
         </p>
         <ul className="check-list">
           {chapterTakeaways.map((item) => (

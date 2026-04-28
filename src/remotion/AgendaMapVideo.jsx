@@ -115,6 +115,16 @@ export function AgendaMapVideo({ activeId = chapters[0].id }) {
               <div style={styles.quoteText}>{signal.quote}</div>
               <div style={styles.speaker}>{signal.speaker}</div>
             </div>
+            <div style={styles.leverBlock}>
+              <div style={styles.quoteLabel}>Operating levers</div>
+              <div style={styles.leverList}>
+                {active.operationalDirectives.slice(0, 3).map((directive) => (
+                  <div key={directive.title} style={styles.leverItem}>
+                    {directive.title}
+                  </div>
+                ))}
+              </div>
+            </div>
           </aside>
         </section>
       </div>
@@ -289,6 +299,11 @@ const styles = {
     borderTop: "3px double rgba(20,19,15,0.42)",
     paddingTop: 22,
   },
+  leverBlock: {
+    marginTop: 28,
+    borderTop: "1px solid rgba(20,19,15,0.2)",
+    paddingTop: 22,
+  },
   quoteLabel: {
     color: "#635f55",
     fontSize: 16,
@@ -307,5 +322,18 @@ const styles = {
     color: "#635f55",
     fontSize: 18,
     fontWeight: 800,
+  },
+  leverList: {
+    display: "grid",
+    gap: 10,
+    marginTop: 14,
+  },
+  leverItem: {
+    borderLeft: "5px solid #9f2f2f",
+    background: "#f2eee4",
+    padding: "10px 12px",
+    color: "#211f19",
+    fontSize: 22,
+    fontWeight: 900,
   },
 };

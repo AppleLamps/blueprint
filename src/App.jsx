@@ -2,19 +2,25 @@ import React, { useState } from "react";
 import {
   AlertTriangle,
   ArrowRight,
+  BookOpen,
   Flame,
   GitBranch,
   MessageSquareQuote,
   Shield,
+  UsersRound,
   Target,
 } from "lucide-react";
 import {
+  actorMap,
   casePillars,
   chapters,
   counterFrames,
   dangerCards,
   getChapterById,
   patternSteps,
+  pressureMarkers,
+  sharpestDetails,
+  strategicOverview,
 } from "./data/evidence.js";
 import { BlueprintMap } from "./components/BlueprintMap.jsx";
 import { ChapterRail } from "./components/ChapterRail.jsx";
@@ -118,6 +124,46 @@ function App() {
               <span>{String(index + 1).padStart(2, "0")}</span>
               <h3>{pillar.title}</h3>
               <p>{pillar.text}</p>
+            </article>
+          ))}
+        </div>
+      </section>
+
+      <section className="machine-section" aria-labelledby="machine-title">
+        <div className="machine-copy">
+          <p className="eyebrow">Strategic overview</p>
+          <h2 id="machine-title">{strategicOverview.title}</h2>
+          {strategicOverview.body.map((paragraph) => (
+            <p key={paragraph}>{paragraph}</p>
+          ))}
+        </div>
+        <div className="machine-flow" aria-label="How the plan reinforces itself">
+          {strategicOverview.machine.map((step, index) => (
+            <article key={step} style={{ "--accent": chapters[index]?.color }}>
+              <span>{index + 1}</span>
+              <p>{step}</p>
+            </article>
+          ))}
+        </div>
+      </section>
+
+      <section className="pressure-section" aria-labelledby="pressure-title">
+        <div className="section-heading">
+          <div>
+            <p className="eyebrow">Pressure logic</p>
+            <h2 id="pressure-title">The same move repeats: independence becomes obstruction.</h2>
+          </div>
+          <p>
+            That is the persuasive trick. Each independent limit is renamed as a threat, then the
+            power transfer is presented as the cure.
+          </p>
+        </div>
+        <div className="pressure-grid">
+          {pressureMarkers.map((marker) => (
+            <article key={marker.title}>
+              <span>{marker.label}</span>
+              <h3>{marker.title}</h3>
+              <p>{marker.text}</p>
             </article>
           ))}
         </div>
@@ -230,6 +276,43 @@ function App() {
                 <small>The pattern shows</small>
                 <p>{frame.patternShows}</p>
               </div>
+            </article>
+          ))}
+        </div>
+      </section>
+
+      <section className="actor-section" aria-labelledby="actor-title">
+        <div className="actor-heading">
+          <UsersRound aria-hidden="true" />
+          <div>
+            <p className="eyebrow">The network</p>
+            <h2 id="actor-title">The roles are different. The direction is the same.</h2>
+          </div>
+        </div>
+        <div className="actor-grid">
+          {actorMap.map((actor) => (
+            <article key={actor.name}>
+              <small>{actor.role}</small>
+              <h3>{actor.name}</h3>
+              <p>{actor.text}</p>
+            </article>
+          ))}
+        </div>
+      </section>
+
+      <section className="sharpest-section" aria-labelledby="sharpest-title">
+        <div className="section-heading">
+          <div>
+            <p className="eyebrow">Sharpest tells</p>
+            <h2 id="sharpest-title">The details that make the pattern harder to dismiss.</h2>
+          </div>
+          <BookOpen aria-hidden="true" />
+        </div>
+        <div className="sharpest-grid">
+          {sharpestDetails.map((detail) => (
+            <article key={detail.label}>
+              <span>{detail.label}</span>
+              <p>{detail.text}</p>
             </article>
           ))}
         </div>

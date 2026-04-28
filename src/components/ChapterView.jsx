@@ -1,5 +1,12 @@
 import React from "react";
-import { ArrowLeft, ArrowRight, Quote, ShieldAlert, TriangleAlert } from "lucide-react";
+import {
+  ArrowLeft,
+  ArrowRight,
+  ClipboardList,
+  Quote,
+  ShieldAlert,
+  TriangleAlert,
+} from "lucide-react";
 import {
   getNextChapterId,
   getPreviousChapterId,
@@ -36,6 +43,11 @@ export function ChapterView({ chapter, onSelectChapter }) {
         <p>{chapter.articleExcerpt}</p>
       </section>
 
+      <section className="strategic-imperative">
+        <span>Strategic imperative</span>
+        <p>{chapter.strategicImperative}</p>
+      </section>
+
       <section className="move-detail-grid" aria-label="Move breakdown">
         {detailItems.map(([label, key]) => (
           <div className="move-detail-card" key={key}>
@@ -52,6 +64,24 @@ export function ChapterView({ chapter, onSelectChapter }) {
             <p>{chapter[key]}</p>
           </details>
         ))}
+      </section>
+
+      <section className="directive-section" aria-label="Operating levers">
+        <header>
+          <ClipboardList aria-hidden="true" />
+          <div>
+            <span>Operating levers</span>
+            <h3>How the move becomes real.</h3>
+          </div>
+        </header>
+        <div className="directive-grid">
+          {chapter.operationalDirectives.map((directive) => (
+            <article key={directive.title}>
+              <strong>{directive.title}</strong>
+              <p>{directive.text}</p>
+            </article>
+          ))}
+        </div>
       </section>
 
       {signal ? (
