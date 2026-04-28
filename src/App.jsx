@@ -1,125 +1,100 @@
-import React, { useEffect, useMemo, useState } from "react";
-import { ArrowRight, Newspaper, Search } from "lucide-react";
+import React, { useState } from "react";
 import {
-  allClaims,
+  AlertTriangle,
+  ArrowRight,
+  Flame,
+  GitBranch,
+  MessageSquareQuote,
+  Shield,
+  Target,
+} from "lucide-react";
+import {
+  casePillars,
   chapters,
+  counterFrames,
+  dangerCards,
   getChapterById,
-  searchableChapterText,
+  patternSteps,
 } from "./data/evidence.js";
 import { BlueprintMap } from "./components/BlueprintMap.jsx";
 import { ChapterRail } from "./components/ChapterRail.jsx";
 import { ChapterView } from "./components/ChapterView.jsx";
-import { EvidenceExplorer } from "./components/EvidenceExplorer.jsx";
-import { ReceiptsPanel } from "./components/ReceiptsPanel.jsx";
 import { RemotionSection } from "./components/RemotionSection.jsx";
 
 function App() {
   const [activeId, setActiveId] = useState(chapters[0].id);
-  const [query, setQuery] = useState("");
-  const [statusFilter, setStatusFilter] = useState("all");
-  const [selectedClaimId, setSelectedClaimId] = useState(chapters[0].claims[0].id);
-
   const activeChapter = getChapterById(activeId);
-
-  useEffect(() => {
-    setSelectedClaimId((currentId) => {
-      const stillInChapter = activeChapter.claims.some((claim) => claim.id === currentId);
-      return stillInChapter ? currentId : activeChapter.claims[0]?.id;
-    });
-  }, [activeChapter]);
-
-  const filteredClaims = useMemo(() => {
-    const needle = query.trim().toLowerCase();
-
-    return allClaims.filter((claim) => {
-      const chapter = getChapterById(claim.chapterId);
-      const receipts = chapter.receipts.filter((receipt) => claim.receiptIds.includes(receipt.id));
-      const matchesStatus = statusFilter === "all" || claim.status === statusFilter;
-
-      if (!matchesStatus) return false;
-      if (!needle) return true;
-
-      const claimCorpus = [
-        claim.label,
-        claim.text,
-        claim.status,
-        ...receipts.flatMap((receipt) => [
-          receipt.speaker,
-          receipt.transcript,
-          receipt.locator,
-          receipt.quote,
-          receipt.interpretation,
-        ]),
-      ]
-        .join(" ")
-        .toLowerCase();
-
-      return claimCorpus.includes(needle) || searchableChapterText(chapter).includes(needle);
-    });
-  }, [query, statusFilter]);
-
-  const selectedClaim =
-    allClaims.find((claim) => claim.id === selectedClaimId) ??
-    activeChapter.claims[0];
 
   function selectChapter(id) {
     setActiveId(id);
-    document.getElementById("chapters")?.scrollIntoView({ behavior: "smooth", block: "start" });
-  }
-
-  function selectClaim(claim) {
-    setActiveId(claim.chapterId);
-    setSelectedClaimId(claim.id);
+    document.getElementById("moves")?.scrollIntoView({ behavior: "smooth", block: "start" });
   }
 
   return (
     <main id="top">
       <header className="site-header" aria-label="Primary">
-        <a className="brand" href="#top" aria-label="The Jacobin Blueprint home">
-          <span className="brand-mark">JB</span>
-          <span>The Jacobin Blueprint</span>
+        <a className="brand" href="#top" aria-label="The Progressive Plan home">
+          <span className="brand-mark">PP</span>
+          <span>The Progressive Plan</span>
         </a>
         <nav className="nav-links" aria-label="Sections">
-          <a href="#chapters">Chapters</a>
-          <a href="#evidence">Evidence</a>
-          <a href="#video">Remotion</a>
+          <a href="#case">The Case</a>
+          <a href="#moves">Five Moves</a>
+          <a href="#stakes">What It Means</a>
+          <a href="#video">Watch</a>
         </nav>
       </header>
 
-      <section className="hero" aria-labelledby="hero-title">
+      <section id="case" className="hero" aria-labelledby="hero-title">
         <div className="hero-masthead">
-          <p className="eyebrow">Special strategic report</p>
           <h1 id="hero-title">
             <span>The</span>
-            <span>Jacobin</span>
-            <span>Blueprint</span>
+            <span>Progressive</span>
+            <span>Plan</span>
           </h1>
           <p className="deck">
-            A five-chapter polemic mapping the article's argument against the transcript receipts:
-            congressional supremacy, judicial purge, nationalized ballot, 3.5% mobilization, and
-            DOJ politicization.
+            My case is simple: these are not isolated reforms. They form a sequence for moving
+            power away from constitutional checks and into institutions progressives can pressure,
+            regulate, staff, or control.
           </p>
           <div className="hero-actions">
-            <a className="primary-action" href="#chapters">
-              <Newspaper aria-hidden="true" />
-              Read the blueprint
+            <a className="primary-action" href="#moves">
+              <Target aria-hidden="true" />
+              See the five moves
             </a>
-            <a className="secondary-action" href="#evidence">
-              <Search aria-hidden="true" />
-              Search receipts
+            <a className="secondary-action" href="#stakes">
+              <Shield aria-hidden="true" />
+              Why it matters
             </a>
           </div>
         </div>
 
         <div className="hero-brief">
           <div className="brief-rule" />
+          <div className="hero-diagram" aria-label="Plan sequence">
+            <div className="diagram-core">
+              <span>Power</span>
+              <strong>center</strong>
+            </div>
+            {chapters.map((chapter) => (
+              <button
+                type="button"
+                key={chapter.id}
+                className={`diagram-node node-${chapter.number}`}
+                style={{ "--accent": chapter.color }}
+                onClick={() => selectChapter(chapter.id)}
+              >
+                <span>{chapter.number}</span>
+                {chapter.shortLabel}
+              </button>
+            ))}
+          </div>
           <p>
-            The site keeps the article's aggressive framing, but every item is tagged by evidentiary
-            status: direct transcript quote, strategic interpretation, or claim needing more source
-            work.
+            The pattern starts with Congress, moves through the courts and elections, then relies on
+            mass pressure and justice-system leverage to make the change hard to reverse.
           </p>
-          <a href="#evidence">
-            Inspect source status
+          <a href="#pattern">
+            Follow the pattern
             <ArrowRight aria-hidden="true" />
           </a>
         </div>
@@ -127,34 +102,173 @@ function App() {
         <BlueprintMap activeId={activeId} onSelect={selectChapter} />
       </section>
 
-      <section id="chapters" className="blueprint-section" aria-label="Blueprint chapters">
+      <section className="case-section" aria-labelledby="case-proof-title">
+        <div className="case-copy">
+          <p className="eyebrow">The case</p>
+          <h2 id="case-proof-title">This is the pattern hiding in plain sight.</h2>
+          <p>
+            The public language is reform. The structure is power transfer. Each move is easier to
+            dismiss alone; together they describe a durable plan for changing who can govern, who
+            can resist, and who gets punished for standing in the way.
+          </p>
+        </div>
+        <div className="case-pillars">
+          {casePillars.map((pillar, index) => (
+            <article key={pillar.title}>
+              <span>{String(index + 1).padStart(2, "0")}</span>
+              <h3>{pillar.title}</h3>
+              <p>{pillar.text}</p>
+            </article>
+          ))}
+        </div>
+      </section>
+
+      <section id="moves" className="moves-intro" aria-labelledby="moves-title">
+        <div>
+          <h2 id="moves-title">The Five Moves</h2>
+          <p>Not separate. Coordinated. Sequenced. Reinforcing.</p>
+        </div>
+        <strong>Five moves. One plan. Total transformation.</strong>
+      </section>
+
+      <section className="blueprint-section" aria-label="Five moves">
         <ChapterRail activeId={activeId} onSelect={setActiveId} />
         <ChapterView
           chapter={activeChapter}
-          selectedClaimId={selectedClaimId}
-          onSelectClaim={setSelectedClaimId}
           onSelectChapter={setActiveId}
         />
-        <ReceiptsPanel chapter={getChapterById(selectedClaim.chapterId)} claim={selectedClaim} />
       </section>
 
-      <section id="evidence" className="evidence-section">
-        <EvidenceExplorer
-          query={query}
-          statusFilter={statusFilter}
-          claims={filteredClaims}
-          onQueryChange={setQuery}
-          onStatusFilterChange={setStatusFilter}
-          onSelectClaim={selectClaim}
-        />
+      <section className="timeline-section" aria-labelledby="timeline-title">
+        <div className="section-heading">
+          <div>
+            <p className="eyebrow">Pattern timeline</p>
+            <h2 id="timeline-title">The sequence is the argument.</h2>
+          </div>
+          <p>
+            This is not a list of grievances. It is a chain: each move makes the next move more
+            plausible, more powerful, and harder to undo.
+          </p>
+        </div>
+        <div className="pattern-timeline">
+          {patternSteps.map((step, index) => (
+            <article key={step.label} style={{ "--accent": chapters[index]?.color }}>
+              <span>{index + 1}</span>
+              <h3>{step.label}</h3>
+              <p>{step.text}</p>
+            </article>
+          ))}
+        </div>
+      </section>
+
+      <section id="pattern" className="pattern-section" aria-labelledby="pattern-title">
+        <div className="pattern-copy">
+          <p className="eyebrow">The pattern</p>
+          <h2 id="pattern-title">Different tools. Same blueprint.</h2>
+          <p>
+            Look past the slogans and the pattern becomes clear: centralize power, weaken the
+            referees, control election rules, mobilize pressure, and use enforcement power against
+            resistance.
+          </p>
+          <ul className="pattern-list">
+            <li>Centralize power.</li>
+            <li>Silence opposition.</li>
+            <li>Make the shift irreversible.</li>
+          </ul>
+        </div>
+        <div className="pillar-diagram" aria-label="Five pillars of the plan">
+          {chapters.map((chapter) => (
+            <button
+              type="button"
+              key={chapter.id}
+              className={activeId === chapter.id ? "active" : ""}
+              style={{ "--accent": chapter.color }}
+              onClick={() => setActiveId(chapter.id)}
+            >
+              <span>{chapter.number}</span>
+              <strong>{chapter.shortLabel}</strong>
+            </button>
+          ))}
+        </div>
+      </section>
+
+      <section className="danger-section" aria-labelledby="danger-title">
+        <div className="danger-masthead">
+          <AlertTriangle aria-hidden="true" />
+          <div>
+            <p className="eyebrow">The danger</p>
+            <h2 id="danger-title">What changes if the plan works?</h2>
+          </div>
+        </div>
+        <div className="danger-grid">
+          {dangerCards.map((card) => (
+            <article key={card.title}>
+              <h3>{card.title}</h3>
+              <p>{card.text}</p>
+            </article>
+          ))}
+        </div>
+      </section>
+
+      <section className="counter-section" aria-labelledby="counter-title">
+        <div className="counter-heading">
+          <MessageSquareQuote aria-hidden="true" />
+          <div>
+            <p className="eyebrow">They say / the pattern shows</p>
+            <h2 id="counter-title">The friendly label is not the whole story.</h2>
+          </div>
+        </div>
+        <div className="counter-grid">
+          {counterFrames.map((frame) => (
+            <article key={frame.id} style={{ "--accent": frame.color }}>
+              <span>{frame.title}</span>
+              <div>
+                <small>They say</small>
+                <p>{frame.theySay}</p>
+              </div>
+              <div>
+                <small>The pattern shows</small>
+                <p>{frame.patternShows}</p>
+              </div>
+            </article>
+          ))}
+        </div>
+      </section>
+
+      <section id="stakes" className="stakes-section" aria-labelledby="stakes-title">
+        <div className="section-heading">
+          <h2 id="stakes-title">The Stakes</h2>
+          <p>This is not about routine policy disagreement. It is about preserving limits.</p>
+        </div>
+        <div className="stakes-grid">
+          <article>
+            <Flame aria-hidden="true" />
+            <h3>Your freedoms</h3>
+            <p>Rights once lost are seldom restored. Speech, religion, privacy, and due process are on the line.</p>
+          </article>
+          <article>
+            <Shield aria-hidden="true" />
+            <h3>The rule of law</h3>
+            <p>Justice becomes a political weapon when neutral limits are replaced by movement discipline.</p>
+          </article>
+          <article>
+            <Target aria-hidden="true" />
+            <h3>Election integrity</h3>
+            <p>If outcomes are controlled through rules, pressure, and administration, consent becomes a myth.</p>
+          </article>
+          <article>
+            <GitBranch aria-hidden="true" />
+            <h3>The structure</h3>
+            <p>Once institutional power is rearranged, ordinary elections may no longer be enough to restore the old limits.</p>
+          </article>
+        </div>
       </section>
 
       <RemotionSection activeId={activeId} />
 
       <footer className="site-footer">
         <p>
-          Evidence standard: direct quotes include speaker, transcript filename, and locator from
-          the local <code>info</code> folder. Interpretive claims are deliberately labeled.
+          Understand the plan. Recognize the pattern. Defend the Republic.
         </p>
         <a href="#top">Back to masthead</a>
       </footer>

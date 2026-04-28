@@ -25,24 +25,24 @@ export function AgendaMapVideo({ activeId = chapters[0].id }) {
     })),
   );
   const spotlight = chapters[spotlightIndex] ?? active;
-  const receipt = active.receipts[0];
+  const signal = active.signals[0];
 
   return (
     <AbsoluteFill style={styles.stage}>
       <div style={styles.page}>
         <header style={styles.header}>
           <div>
-            <div style={styles.kicker}>Special strategic report</div>
-            <div style={styles.title}>The Jacobin Blueprint</div>
+            <div style={styles.kicker}>Watch the case</div>
+            <div style={styles.title}>The Progressive Plan</div>
           </div>
-          <div style={styles.counter}>5 chapters</div>
+          <div style={styles.counter}>5 moves</div>
         </header>
 
         <div style={styles.rule} />
 
         <section style={styles.body}>
           <div style={styles.left}>
-            <div style={styles.sequenceLabel}>Blueprint route</div>
+            <div style={styles.sequenceLabel}>Plan route</div>
             <div style={styles.timeline}>
               <div
                 style={{
@@ -94,7 +94,7 @@ export function AgendaMapVideo({ activeId = chapters[0].id }) {
                 >
                   <div style={styles.tableIssue}>{row.issue}</div>
                   <div style={styles.tableCell}>{row.traditional}</div>
-                  <div style={styles.tableCellAccent}>{row.blueprint}</div>
+                  <div style={styles.tableCellAccent}>{row.result}</div>
                 </div>
               ))}
             </div>
@@ -109,13 +109,11 @@ export function AgendaMapVideo({ activeId = chapters[0].id }) {
           >
             <div style={{ ...styles.chapterKicker, color: active.color }}>{active.kicker}</div>
             <div style={styles.chapterTitle}>{active.title}</div>
-            <div style={styles.thesis}>{active.thesis}</div>
+            <div style={styles.thesis}>{active.actualEffect}</div>
             <div style={styles.quoteBlock}>
-              <div style={styles.quoteLabel}>Transcript receipt</div>
-              <div style={styles.quoteText}>{receipt.quote}</div>
-              <div style={styles.source}>
-                {receipt.speaker} / {receipt.locator}
-              </div>
+              <div style={styles.quoteLabel}>Public warning</div>
+              <div style={styles.quoteText}>{signal.quote}</div>
+              <div style={styles.speaker}>{signal.speaker}</div>
             </div>
           </aside>
         </section>
@@ -304,7 +302,7 @@ const styles = {
     fontSize: 34,
     lineHeight: 1.2,
   },
-  source: {
+  speaker: {
     marginTop: 18,
     color: "#635f55",
     fontSize: 18,

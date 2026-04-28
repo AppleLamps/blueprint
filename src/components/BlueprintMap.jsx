@@ -3,9 +3,9 @@ import { chapters } from "../data/evidence.js";
 
 export function BlueprintMap({ activeId, onSelect }) {
   return (
-    <div className="blueprint-map" aria-label="Five chapter blueprint navigation">
+    <div className="blueprint-map" aria-label="Five move plan navigation">
       <div className="map-heading">
-        <span>Five-chapter route</span>
+        <span>Five-move route</span>
         <strong>From branch theory to DOJ pressure</strong>
       </div>
       <div className="chapter-line" aria-hidden="true" />

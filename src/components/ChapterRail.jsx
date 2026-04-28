@@ -3,9 +3,9 @@ import { chapters } from "../data/evidence.js";
 
 export function ChapterRail({ activeId, onSelect }) {
   return (
-    <aside className="chapter-rail" aria-label="Chapter rail">
+    <aside className="chapter-rail" aria-label="Move rail">
       <label className="chapter-select">
-        <span>Chapter</span>
+        <span>Move</span>
         <select value={activeId} onChange={(event) => onSelect(event.target.value)}>
           {chapters.map((chapter) => (
             <option key={chapter.id} value={chapter.id}>

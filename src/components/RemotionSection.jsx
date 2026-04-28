@@ -8,11 +8,11 @@ export function RemotionSection({ activeId }) {
   return (
     <section id="video" className="video-section">
       <div className="video-copy">
-        <p className="eyebrow">Remotion layer</p>
-        <h2>Animated blueprint module</h2>
+        <p className="eyebrow">Watch the case</p>
+        <h2>A quick visual map of the sequence</h2>
         <p>
-          The Remotion player uses the same five-chapter data as the page, so the selected chapter
-          becomes the visual focus in the animation.
+          The video follows the same chain as the page: redefine power, pressure the Court, control
+          election rules, mobilize outside force, and use enforcement leverage.
         </p>
         <ul className="check-list">
           {chapterTakeaways.map((item) => (
@@ -26,7 +26,7 @@ export function RemotionSection({ activeId }) {
       <div className="player-shell">
         <div className="player-label">
           <Play aria-hidden="true" />
-          Current chapter synced to page selection
+          Five moves in sequence
         </div>
         <Player
           component={AgendaMapVideo}
